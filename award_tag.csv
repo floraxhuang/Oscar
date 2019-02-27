@@ -1,1201 +1,1293 @@
 Rater,Film,Year,Win,Genres
 Oscars,Lawrence of Arabia,1962,1,Adventure
-DGA,Lawrence of Arabia,1962,1,Adventure
-BAFTA,Lawrence of Arabia,1962,1,Adventure
+Oscars,The Longest Day,1962,-1,
+Oscars,Meredith Willson's The Music Man,1962,-1,
 Oscars,Mutiny on the Bounty,1962,-1,Adventure
-Oscars,Mutiny on the Bounty,1962,-1,Adventure
-DGA,Mutiny on the Bounty,1962,-1,Adventure
-DGA,Mutiny on the Bounty,1962,-1,Adventure
 Oscars,To Kill a Mockingbird,1962,-1,Drama
-DGA,To Kill a Mockingbird,1962,-1,Drama
-BAFTA,To Kill a Mockingbird,1963,-1,Drama
-Oscars,Cleopatra,1963,-1,Drama
-Oscars,Cleopatra,1963,-1,Drama
-Oscars,Cleopatra,1963,-1,Comedy
-Oscars,Cleopatra,1963,-1,Drama
+Oscars,America America,1963,-1,
 Oscars,Cleopatra,1963,-1,Drama
 Oscars,How the West Was Won,1963,-1,Adventure
 Oscars,Lilies of the Field,1963,-1,Drama
-DGA,Lilies of the Field,1963,-1,Drama
 Oscars,Tom Jones,1963,1,Adventure
-NBRA,Tom Jones,1963,1,Adventure
-DGA,Tom Jones,1963,1,Adventure
-BAFTA,Tom Jones,1963,1,Adventure
 Oscars,Becket,1964,-1,Drama
-NBRA,Becket,1964,1,Drama
-DGA,Becket,1964,-1,Drama
-BAFTA,Becket,1964,-1,Drama
 Oscars,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,-1,Comedy
-DGA,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,-1,Comedy
 Oscars,Mary Poppins,1964,-1,Children
-DGA,Mary Poppins,1964,-1,Children
 Oscars,My Fair Lady,1964,1,Comedy
-DGA,My Fair Lady,1964,1,Comedy
-BAFTA,My Fair Lady,1965,1,Comedy
 Oscars,Zorba the Greek,1964,-1,Adventure
-BAFTA,Zorba the Greek,1965,-1,Adventure
 Oscars,Darling,1965,-1,Drama
-Oscars,Darling,1965,-1,Drama
-Oscars,Darling,1965,-1,Drama
-Oscars,Darling,1965,-1,Thriller
-Oscars,Darling,1965,-1,Drama
-DGA,Darling,1965,-1,Drama
-DGA,Darling,1965,-1,Drama
-DGA,Darling,1965,-1,Drama
-DGA,Darling,1965,-1,Thriller
-DGA,Darling,1965,-1,Drama
 Oscars,Doctor Zhivago,1965,-1,Drama
-BAFTA,Doctor Zhivago,1966,-1,Drama
 Oscars,Ship of Fools,1965,-1,Drama
+Oscars,The Sound of Music,1965,1,
+Oscars,A Thousand Clowns,1965,-1,
 Oscars,Alfie,1966,-1,Comedy
-Oscars,Alfie,1966,-1,Comedy
-DGA,Alfie,1966,-1,Comedy
-DGA,Alfie,1966,-1,Comedy
+Oscars,A Man for All Seasons,1966,1,
+Oscars,The Russians Are Coming The Russians Are Coming,1966,-1,
+Oscars,The Sand Pebbles,1966,-1,
 Oscars,Who's Afraid of Virginia Woolf?,1966,-1,Drama
-DGA,Who's Afraid of Virginia Woolf?,1966,-1,Drama
-BAFTA,Who's Afraid of Virginia Woolf?,1966,1,Drama
 Oscars,Bonnie and Clyde,1967,-1,Crime
-Oscars,Bonnie and Clyde,1967,-1,Crime
-DGA,Bonnie and Clyde,1967,-1,Crime
-DGA,Bonnie and Clyde,1967,-1,Crime
-BAFTA,Bonnie and Clyde,1967,-1,Crime
-BAFTA,Bonnie and Clyde,1967,-1,Crime
 Oscars,Doctor Dolittle,1967,-1,Adventure
+Oscars,The Graduate,1967,-1,
 Oscars,Guess Who's Coming to Dinner,1967,-1,Drama
-DGA,Guess Who's Coming to Dinner,1967,-1,Drama
 Oscars,In the Heat of the Night,1967,1,Drama
-DGA,In the Heat of the Night,1967,-1,Drama
-BAFTA,In the Heat of the Night,1967,-1,Drama
 Oscars,Funny Girl,1968,-1,Drama
-DGA,Funny Girl,1968,-1,Drama
+Oscars,The Lion in Winter,1968,-1,
 Oscars,Oliver!,1968,1,Drama
-DGA,Oliver!,1968,-1,Drama
-BAFTA,Oliver!,1968,-1,Drama
 Oscars,"Rachel, Rachel",1968,-1,Drama
-DGA,"Rachel, Rachel",1968,-1,Drama
 Oscars,Romeo and Juliet,1968,-1,Drama
-Oscars,Romeo and Juliet,1968,-1,Drama
-Oscars,Romeo and Juliet,1968,-1,Drama
-DGA,Romeo and Juliet,1968,-1,Drama
-DGA,Romeo and Juliet,1968,-1,Drama
-DGA,Romeo and Juliet,1968,-1,Drama
 Oscars,Anne of the Thousand Days,1969,-1,Drama
 Oscars,Butch Cassidy and the Sundance Kid,1969,-1,Action
-DGA,Butch Cassidy and the Sundance Kid,1969,-1,Action
-BAFTA,Butch Cassidy and the Sundance Kid,1970,1,Action
 Oscars,"Hello, Dolly!",1969,-1,Comedy
-DGA,"Hello, Dolly!",1969,-1,Comedy
 Oscars,Midnight Cowboy,1969,1,Drama
-DGA,Midnight Cowboy,1969,1,Drama
-BAFTA,Midnight Cowboy,1969,1,Drama
 Oscars,Z,1969,-1,Drama
-DGA,Z,1969,-1,Drama
-BAFTA,Z,1969,-1,Drama
 Oscars,Airport,1970,-1,Drama
 Oscars,Five Easy Pieces,1970,-1,Drama
-DGA,Five Easy Pieces,1970,-1,Drama
 Oscars,Love Story,1970,-1,Drama
-Oscars,Love Story,1970,-1,Drama
-DGA,Love Story,1970,-1,Drama
-DGA,Love Story,1970,-1,Drama
 Oscars,M*A*S*H,1970,-1,Comedy
-DGA,M*A*S*H,1970,-1,Comedy
-BAFTA,M*A*S*H,1970,-1,Comedy
 Oscars,Patton,1970,1,Drama
-NBRA,Patton,1970,1,Drama
-DGA,Patton,1970,1,Drama
+Oscars,A Clockwork Orange,1971,-1,
 Oscars,Fiddler on the Roof,1971,-1,Drama
+Oscars,The French Connection,1971,1,
+Oscars,The Last Picture Show,1971,-1,
 Oscars,Nicholas and Alexandra,1971,-1,Drama
 Oscars,Cabaret,1972,-1,Drama
-NBRA,Cabaret,1972,1,Drama
-DGA,Cabaret,1972,-1,Drama
-BAFTA,Cabaret,1972,1,Drama
 Oscars,Deliverance,1972,-1,Adventure
-DGA,Deliverance,1972,-1,Adventure
+Oscars,The Emigrants,1972,-1,
+Oscars,The Godfather,1972,1,
 Oscars,Sounder,1972,-1,Drama
-Oscars,Sounder,1972,-1,(no genres listed)
-DGA,Sounder,1972,-1,Drama
-DGA,Sounder,1972,-1,(no genres listed)
 Oscars,American Graffiti,1973,-1,Comedy
-DGA,American Graffiti,1973,-1,Comedy
 Oscars,Cries and Whispers,1973,-1,Drama
+Oscars,The Exorcist,1973,-1,
 Oscars,The Sting,1973,1,Comedy
-NBRA,The Sting,1973,1,Comedy
-DGA,The Sting,1973,1,Comedy
+Oscars,A Touch of Class,1973,-1,
 Oscars,Chinatown,1974,-1,Crime
-DGA,Chinatown,1974,-1,Crime
-BAFTA,Chinatown,1974,-1,Crime
+Oscars,The Conversation,1974,-1,
+Oscars,The Godfather Part II,1974,1,
 Oscars,Lenny,1974,-1,Drama
-DGA,Lenny,1974,-1,Drama
+Oscars,The Towering Inferno,1974,-1,
 Oscars,Barry Lyndon,1975,-1,Drama
-NBRA,Barry Lyndon,1975,1,Drama
-DGA,Barry Lyndon,1975,-1,Drama
-BAFTA,Barry Lyndon,1975,-1,Drama
 Oscars,Dog Day Afternoon,1975,-1,Crime
-DGA,Dog Day Afternoon,1975,-1,Crime
-BAFTA,Dog Day Afternoon,1975,-1,Crime
 Oscars,Jaws,1975,-1,Action
-DGA,Jaws,1975,-1,Action
-BAFTA,Jaws,1975,-1,Action
 Oscars,Nashville,1975,-1,Drama
-NBRA,Nashville,1975,1,Drama
-DGA,Nashville,1975,-1,Drama
+Oscars,One Flew over the Cuckoo's Nest,1975,1,
 Oscars,All the President's Men,1976,-1,Drama
-NBRA,All the President's Men,1976,1,Drama
-DGA,All the President's Men,1976,-1,Drama
-BAFTA,All the President's Men,1976,-1,Drama
 Oscars,Bound for Glory,1976,-1,Drama
 Oscars,Network,1976,-1,Comedy
-DGA,Network,1976,-1,Comedy
-BAFTA,Network,1977,-1,Comedy
 Oscars,Rocky,1976,1,Drama
-DGA,Rocky,1976,1,Drama
-BAFTA,Rocky,1977,-1,Drama
 Oscars,Taxi Driver,1976,-1,Crime
-Oscars,Taxi Driver,1976,-1,Romance
-DGA,Taxi Driver,1976,-1,Crime
-DGA,Taxi Driver,1976,-1,Romance
-BAFTA,Taxi Driver,1976,-1,Crime
-BAFTA,Taxi Driver,1976,-1,Romance
 Oscars,Annie Hall,1977,1,Comedy
-DGA,Annie Hall,1977,1,Comedy
-BAFTA,Annie Hall,1977,1,Comedy
+Oscars,The Goodbye Girl,1977,-1,
 Oscars,Julia,1977,-1,Drama
-Oscars,Julia,1977,-1,Drama
-Oscars,Julia,1977,-1,Horror
-DGA,Julia,1977,-1,Drama
-DGA,Julia,1977,-1,Drama
-DGA,Julia,1977,-1,Horror
-BAFTA,Julia,1978,1,Drama
-BAFTA,Julia,1978,1,Drama
-BAFTA,Julia,1978,1,Horror
+Oscars,Star Wars,1977,-1,
 Oscars,The Turning Point,1977,-1,Action
-NBRA,The Turning Point,1977,1,Action
-DGA,The Turning Point,1977,-1,Action
 Oscars,Coming Home,1978,-1,Drama
-Oscars,Coming Home,1978,-1,Drama
-Oscars,Coming Home,1978,-1,Drama
-Oscars,Coming Home,1978,-1,Drama
-Oscars,Coming Home,1978,-1,Drama
-DGA,Coming Home,1978,-1,Drama
-DGA,Coming Home,1978,-1,Drama
-DGA,Coming Home,1978,-1,Drama
-DGA,Coming Home,1978,-1,Drama
-DGA,Coming Home,1978,-1,Drama
+Oscars,The Deer Hunter,1978,1,
 Oscars,Heaven Can Wait,1978,-1,Comedy
-Oscars,Heaven Can Wait,1978,-1,Comedy
-DGA,Heaven Can Wait,1978,-1,Comedy
-DGA,Heaven Can Wait,1978,-1,Comedy
 Oscars,Midnight Express,1978,-1,Drama
-DGA,Midnight Express,1978,-1,Drama
-BAFTA,Midnight Express,1978,-1,Drama
+Oscars,An Unmarried Woman,1978,-1,
 Oscars,All That Jazz,1979,-1,Drama
 Oscars,Apocalypse Now,1979,-1,Action
-DGA,Apocalypse Now,1979,-1,Action
-BAFTA,Apocalypse Now,1979,-1,Action
 Oscars,Breaking Away,1979,-1,Comedy
-DGA,Breaking Away,1979,-1,Comedy
 Oscars,Kramer vs. Kramer,1979,1,Drama
-DGA,Kramer vs. Kramer,1979,1,Drama
-BAFTA,Kramer vs. Kramer,1980,-1,Drama
 Oscars,Norma Rae,1979,-1,Drama
 Oscars,Coal Miner's Daughter,1980,-1,Drama
-DGA,Coal Miner's Daughter,1980,-1,Drama
 Oscars,The Elephant Man,1980,-1,Drama
-DGA,The Elephant Man,1980,-1,Drama
-BAFTA,The Elephant Man,1980,1,Drama
 Oscars,Ordinary People,1980,1,Drama
-NBRA,Ordinary People,1980,1,Drama
-DGA,Ordinary People,1980,1,Drama
 Oscars,Raging Bull,1980,-1,Drama
-DGA,Raging Bull,1980,-1,Drama
 Oscars,Tess,1980,-1,Drama
 Oscars,Atlantic City,1981,-1,Crime
-DGA,Atlantic City,1981,-1,Crime
-BAFTA,Atlantic City,1981,-1,Crime
 Oscars,Chariots of Fire,1981,1,Drama
-NBRA,Chariots of Fire,1981,1,Drama
-DGA,Chariots of Fire,1981,-1,Drama
-BAFTA,Chariots of Fire,1981,1,Drama
 Oscars,On Golden Pond,1981,-1,Drama
-DGA,On Golden Pond,1981,-1,Drama
-BAFTA,On Golden Pond,1982,-1,Drama
 Oscars,Raiders of the Lost Ark,1981,-1,Action
-DGA,Raiders of the Lost Ark,1981,-1,Action
-BAFTA,Raiders of the Lost Ark,1981,-1,Action
 Oscars,Reds,1981,-1,Drama
-NBRA,Reds,1981,1,Drama
-DGA,Reds,1981,1,Drama
+Oscars,E.T. The Extra-Terrestrial,1982,-1,
 Oscars,Gandhi,1982,1,Drama
-NBRA,Gandhi,1982,1,Drama
-DGA,Gandhi,1982,1,Drama
-BAFTA,Gandhi,1982,1,Drama
 Oscars,Missing,1982,-1,Drama
-Oscars,Missing,1982,-1,Thriller
-Oscars,Missing,1982,-1,Crime
-Oscars,Missing,1982,-1,Fantasy
-BAFTA,Missing,1982,-1,Drama
-BAFTA,Missing,1982,-1,Thriller
-BAFTA,Missing,1982,-1,Crime
-BAFTA,Missing,1982,-1,Fantasy
 Oscars,Tootsie,1982,-1,Comedy
-DGA,Tootsie,1982,-1,Comedy
-BAFTA,Tootsie,1983,-1,Comedy
+Oscars,The Verdict,1982,-1,
+Oscars,The Big Chill,1983,-1,
 Oscars,The Dresser,1983,-1,Drama
-BAFTA,The Dresser,1984,-1,Drama
+Oscars,The Right Stuff,1983,-1,
 Oscars,Tender Mercies,1983,-1,Drama
-DGA,Tender Mercies,1983,-1,Drama
 Oscars,Terms of Endearment,1983,1,Comedy
-NBRA,Terms of Endearment,1983,1,Comedy
-DGA,Terms of Endearment,1983,1,Comedy
 Oscars,Amadeus,1984,1,Drama
-DGA,Amadeus,1984,1,Drama
-BAFTA,Amadeus,1985,-1,Drama
+Oscars,The Killing Fields,1984,-1,
+Oscars,A Passage to India,1984,-1,
 Oscars,Places in the Heart,1984,-1,Drama
-DGA,Places in the Heart,1984,-1,Drama
+Oscars,A Soldier's Story,1984,-1,
+Oscars,The Color Purple,1985,-1,
 Oscars,Kiss of the Spider Woman,1985,-1,Drama
 Oscars,Out of Africa,1985,1,Drama
-DGA,Out of Africa,1985,-1,Drama
 Oscars,Prizzi's Honor,1985,-1,Comedy
-DGA,Prizzi's Honor,1985,-1,Comedy
 Oscars,Witness,1985,-1,Drama
-DGA,Witness,1985,-1,Drama
-BAFTA,Witness,1985,-1,Drama
 Oscars,Children of a Lesser God,1986,-1,Drama
-DGA,Children of a Lesser God,1986,-1,Drama
 Oscars,Hannah and Her Sisters,1986,-1,Comedy
-DGA,Hannah and Her Sisters,1986,-1,Comedy
-BAFTA,Hannah and Her Sisters,1986,-1,Comedy
+Oscars,The Mission,1986,-1,
 Oscars,Platoon,1986,1,Drama
-DGA,Platoon,1986,1,Drama
+Oscars,A Room with a View,1986,-1,
 Oscars,Broadcast News,1987,-1,Comedy
-DGA,Broadcast News,1987,-1,Comedy
 Oscars,Fatal Attraction,1987,-1,Drama
-DGA,Fatal Attraction,1987,-1,Drama
 Oscars,Hope and Glory,1987,-1,Drama
-BAFTA,Hope and Glory,1987,-1,Drama
+Oscars,The Last Emperor,1987,1,
 Oscars,Moonstruck,1987,-1,Comedy
-Oscars,Dangerous Liaisons,1988,-1,Drama
-Oscars,Dangerous Liaisons,1988,-1,Comedy
-Oscars,Dangerous Liaisons,1988,-1,Drama
-Oscars,Dangerous Liaisons,1988,-1,Drama
+Oscars,The Accidental Tourist,1988,-1,
 Oscars,Dangerous Liaisons,1988,-1,Drama
 Oscars,Mississippi Burning,1988,-1,Crime
-NBRA,Mississippi Burning,1988,1,Crime
-DGA,Mississippi Burning,1988,-1,Crime
 Oscars,Rain Man,1988,1,Drama
-DGA,Rain Man,1988,1,Drama
 Oscars,Working Girl,1988,-1,Comedy
-DGA,Working Girl,1988,-1,Comedy
 Oscars,Born on the Fourth of July,1989,-1,Drama
-DGA,Born on the Fourth of July,1989,1,Drama
 Oscars,Dead Poets Society,1989,-1,Drama
-DGA,Dead Poets Society,1989,-1,Drama
-BAFTA,Dead Poets Society,1989,1,Drama
 Oscars,Driving Miss Daisy,1989,1,Drama
-NBRA,Driving Miss Daisy,1989,1,Drama
-BAFTA,Driving Miss Daisy,1990,-1,Drama
 Oscars,Field of Dreams,1989,-1,Children
-DGA,Field of Dreams,1989,-1,Children
 Oscars,My Left Foot,1989,-1,Drama
-BAFTA,My Left Foot,1989,-1,Drama
 Oscars,Awakenings,1990,-1,Drama
+Oscars,Dances With Wolves,1990,1,
 Oscars,Ghost,1990,-1,Comedy
-Oscars,Ghost,1990,-1,Drama
-Oscars,Ghost,1990,-1,Horror
-Oscars,Ghost,1990,-1,Children
+Oscars,"The Godfather, Part III",1990,-1,
+Oscars,Good Fellas,1990,-1,
 Oscars,Beauty and the Beast,1991,-1,Animation
-Oscars,Beauty and the Beast,1991,-1,Drama
-Oscars,Beauty and the Beast,1991,-1,Children
-Oscars,Beauty and the Beast,1991,-1,Fantasy
-Oscars,Beauty and the Beast,1991,-1,Fantasy
-Oscars,Beauty and the Beast,1991,-1,Children
-Oscars,Beauty and the Beast,1991,-1,Drama
-Oscars,Beauty and the Beast,1991,-1,Fantasy
 Oscars,Bugsy,1991,-1,Crime
-DGA,Bugsy,1991,-1,Crime
 Oscars,JFK,1991,-1,Drama
-DGA,JFK,1991,-1,Drama
+Oscars,The Prince of Tides,1991,-1,
+Oscars,The Silence of the Lambs,1991,1,
+Oscars,The Crying Game,1992,-1,
+Oscars,A Few Good Men,1992,-1,
 Oscars,Howards End,1992,-1,Drama
-NBRA,Howards End,1992,1,Drama
-DGA,Howards End,1992,-1,Drama
-BAFTA,Howards End,1992,1,Drama
 Oscars,Scent of a Woman,1992,-1,Drama
-Oscars,Scent of a Woman,1992,-1,Comedy
 Oscars,Unforgiven,1992,1,Drama
-Oscars,Unforgiven,1992,1,Action
-DGA,Unforgiven,1992,1,Drama
-DGA,Unforgiven,1992,1,Action
-BAFTA,Unforgiven,1992,-1,Drama
-BAFTA,Unforgiven,1992,-1,Action
+Oscars,The Fugitive,1993,-1,
 Oscars,In the Name of the Father,1993,-1,Drama
-Oscars,In the Name of the Father,1993,-1,Comedy
+Oscars,The Piano,1993,-1,
+Oscars,The Remains of the Day,1993,-1,
 Oscars,Schindler's List,1993,1,Drama
-NBRA,Schindler's List,1993,1,Drama
-DGA,Schindler's List,1993,1,Drama
-BAFTA,Schindler's List,1993,1,Drama
 Oscars,Forrest Gump,1994,1,Comedy
-NBRA,Forrest Gump,1994,1,Comedy
-DGA,Forrest Gump,1994,1,Comedy
-BAFTA,Forrest Gump,1994,-1,Comedy
 Oscars,Four Weddings and a Funeral,1994,-1,Comedy
-DGA,Four Weddings and a Funeral,1994,-1,Comedy
-BAFTA,Four Weddings and a Funeral,1994,1,Comedy
 Oscars,Pulp Fiction,1994,-1,Comedy
-NBRA,Pulp Fiction,1994,1,Comedy
-DGA,Pulp Fiction,1994,-1,Comedy
-BAFTA,Pulp Fiction,1994,-1,Comedy
 Oscars,Quiz Show,1994,-1,Drama
-DGA,Quiz Show,1994,-1,Drama
-BAFTA,Quiz Show,1994,-1,Drama
+Oscars,The Shawshank Redemption,1994,-1,
 Oscars,Apollo 13,1995,-1,Adventure
-DGA,Apollo 13,1995,1,Adventure
-SAG,Apollo 13,1995,1,Adventure
 Oscars,Babe,1995,-1,Children
-BAFTA,Babe,1995,-1,Children
 Oscars,Braveheart,1995,1,Action
-DGA,Braveheart,1995,-1,Action
+Oscars,The Postman (Il Postino),1995,-1,
 Oscars,Sense and Sensibility,1995,-1,Drama
-Oscars,Sense and Sensibility,1995,-1,Drama
-Oscars,Sense and Sensibility,1995,-1,(no genres listed)
-NBRA,Sense and Sensibility,1995,1,Drama
-NBRA,Sense and Sensibility,1995,1,Drama
-NBRA,Sense and Sensibility,1995,1,(no genres listed)
-DGA,Sense and Sensibility,1995,-1,Drama
-DGA,Sense and Sensibility,1995,-1,Drama
-DGA,Sense and Sensibility,1995,-1,(no genres listed)
-BAFTA,Sense and Sensibility,1995,1,Drama
-BAFTA,Sense and Sensibility,1995,1,Drama
-BAFTA,Sense and Sensibility,1995,1,(no genres listed)
-SAG,Sense and Sensibility,1995,-1,Drama
-SAG,Sense and Sensibility,1995,-1,Drama
-SAG,Sense and Sensibility,1995,-1,(no genres listed)
-CC,Sense and Sensibility,1995,1,Drama
-CC,Sense and Sensibility,1995,1,Drama
-CC,Sense and Sensibility,1995,1,(no genres listed)
+Oscars,The English Patient,1996,1,
 Oscars,Fargo,1996,-1,Comedy
-SA,Fargo,1996,1,Comedy
-DGA,Fargo,1996,-1,Comedy
-BAFTA,Fargo,1996,-1,Comedy
-CC,Fargo,1996,1,Comedy
 Oscars,Jerry Maguire,1996,-1,Drama
-DGA,Jerry Maguire,1996,-1,Drama
-CC,Jerry Maguire,1996,-1,Drama
 Oscars,Secrets & Lies,1996,-1,Drama
-SA,Secrets & Lies,1996,-1,Drama
-BAFTA,Secrets & Lies,1996,-1,Drama
 Oscars,Shine,1996,-1,Drama
-NBRA,Shine,1996,1,Drama
-SA,Shine,1996,-1,Drama
-DGA,Shine,1996,-1,Drama
-BAFTA,Shine,1996,-1,Drama
-SAG,Shine,1996,-1,Drama
-CC,Shine,1996,-1,Drama
 Oscars,As Good as It Gets,1997,-1,Comedy
-DGA,As Good as It Gets,1997,-1,Comedy
-CC,As Good as It Gets,1997,-1,Comedy
+Oscars,The Full Monty,1997,-1,
 Oscars,Good Will Hunting,1997,-1,Drama
-SA,Good Will Hunting,1997,-1,Drama
-DGA,Good Will Hunting,1997,-1,Drama
-SAG,Good Will Hunting,1997,-1,Drama
-CC,Good Will Hunting,1997,-1,Drama
 Oscars,L.A. Confidential,1997,-1,Crime
-NBRA,L.A. Confidential,1997,1,Crime
-SA,L.A. Confidential,1997,-1,Crime
-DGA,L.A. Confidential,1997,-1,Crime
-BAFTA,L.A. Confidential,1997,-1,Crime
-SAG,L.A. Confidential,1997,-1,Crime
-CC,L.A. Confidential,1997,1,Crime
 Oscars,Titanic,1997,1,Drama
-Oscars,Titanic,1997,1,Action
-Oscars,Titanic,1997,1,Action
-Oscars,Titanic,1997,1,Action
-SA,Titanic,1997,1,Drama
-SA,Titanic,1997,1,Action
-SA,Titanic,1997,1,Action
-SA,Titanic,1997,1,Action
-DGA,Titanic,1997,1,Drama
-DGA,Titanic,1997,1,Action
-DGA,Titanic,1997,1,Action
-DGA,Titanic,1997,1,Action
-BAFTA,Titanic,1997,-1,Drama
-BAFTA,Titanic,1997,-1,Action
-BAFTA,Titanic,1997,-1,Action
-BAFTA,Titanic,1997,-1,Action
-SAG,Titanic,1997,-1,Drama
-SAG,Titanic,1997,-1,Action
-SAG,Titanic,1997,-1,Action
-SAG,Titanic,1997,-1,Action
-CC,Titanic,1997,-1,Drama
-CC,Titanic,1997,-1,Action
-CC,Titanic,1997,-1,Action
-CC,Titanic,1997,-1,Action
 Oscars,Elizabeth,1998,-1,Drama
-SA,Elizabeth,1998,-1,Drama
-BAFTA,Elizabeth,1998,-1,Drama
-CC,Elizabeth,1998,-1,Drama
 Oscars,Life Is Beautiful,1998,-1,Comedy
-Oscars,Life Is Beautiful,1998,-1,Animation
-DGA,Life Is Beautiful,1998,-1,Comedy
-DGA,Life Is Beautiful,1998,-1,Animation
-SAG,Life Is Beautiful,1998,-1,Comedy
-SAG,Life Is Beautiful,1998,-1,Animation
-CC,Life Is Beautiful,1998,-1,Comedy
-CC,Life Is Beautiful,1998,-1,Animation
 Oscars,Saving Private Ryan,1998,-1,Action
-SA,Saving Private Ryan,1998,-1,Action
-DGA,Saving Private Ryan,1998,1,Action
-BAFTA,Saving Private Ryan,1998,-1,Action
-SAG,Saving Private Ryan,1998,-1,Action
-CC,Saving Private Ryan,1998,1,Action
 Oscars,Shakespeare in Love,1998,1,Comedy
-DGA,Shakespeare in Love,1998,-1,Comedy
-BAFTA,Shakespeare in Love,1998,1,Comedy
-SAG,Shakespeare in Love,1998,1,Comedy
-CC,Shakespeare in Love,1998,-1,Comedy
 Oscars,The Thin Red Line,1998,-1,War
-SA,The Thin Red Line,1998,1,War
-DGA,The Thin Red Line,1998,-1,War
-CC,The Thin Red Line,1998,-1,War
 Oscars,American Beauty,1999,1,Drama
-NBRA,American Beauty,1999,1,Drama
-SA,American Beauty,1999,-1,Drama
-DGA,American Beauty,1999,1,Drama
-BAFTA,American Beauty,1999,1,Drama
-SAG,American Beauty,1999,1,Drama
-CC,American Beauty,1999,1,Drama
+Oscars,The Cider House Rules,1999,-1,
+Oscars,The Green Mile,1999,-1,
+Oscars,The Insider,1999,-1,
+Oscars,The Sixth Sense,1999,-1,
 Oscars,Chocolat,2000,-1,Drama
-Oscars,Chocolat,2000,-1,Drama
-Oscars,Chocolat,2000,-1,Comedy
-SAG,Chocolat,2000,-1,Drama
-SAG,Chocolat,2000,-1,Drama
-SAG,Chocolat,2000,-1,Comedy
 Oscars,"Crouching Tiger, Hidden Dragon",2000,-1,Action
-DGA,"Crouching Tiger, Hidden Dragon",2000,1,Action
-BAFTA,"Crouching Tiger, Hidden Dragon",2000,-1,Action
-CC,"Crouching Tiger, Hidden Dragon",2000,-1,Action
 Oscars,Erin Brockovich,2000,-1,Drama
-SA,Erin Brockovich,2000,-1,Drama
-DGA,Erin Brockovich,2000,-1,Drama
-BAFTA,Erin Brockovich,2000,-1,Drama
-CC,Erin Brockovich,2000,-1,Drama
 Oscars,Gladiator,2000,1,Action
-Oscars,Gladiator,2000,1,Action
-SA,Gladiator,2000,-1,Action
-SA,Gladiator,2000,-1,Action
-DGA,Gladiator,2000,-1,Action
-DGA,Gladiator,2000,-1,Action
-BAFTA,Gladiator,2000,1,Action
-BAFTA,Gladiator,2000,1,Action
-SAG,Gladiator,2000,-1,Action
-SAG,Gladiator,2000,-1,Action
-CC,Gladiator,2000,1,Action
-CC,Gladiator,2000,1,Action
 Oscars,Traffic,2000,-1,Crime
-Oscars,Traffic,2000,-1,Comedy
-Oscars,Traffic,2000,-1,Thriller
-SA,Traffic,2000,1,Crime
-SA,Traffic,2000,1,Comedy
-SA,Traffic,2000,1,Thriller
-DGA,Traffic,2000,-1,Crime
-DGA,Traffic,2000,-1,Comedy
-DGA,Traffic,2000,-1,Thriller
-SAG,Traffic,2000,1,Crime
-SAG,Traffic,2000,1,Comedy
-SAG,Traffic,2000,1,Thriller
-CC,Traffic,2000,-1,Crime
-CC,Traffic,2000,-1,Comedy
-CC,Traffic,2000,-1,Thriller
+Oscars,A Beautiful Mind,2001,1,
 Oscars,Gosford Park,2001,-1,Comedy
-SAG,Gosford Park,2001,1,Comedy
 Oscars,In the Bedroom,2001,-1,Drama
-SA,In the Bedroom,2001,1,Drama
-SAG,In the Bedroom,2001,-1,Drama
-CC,In the Bedroom,2001,-1,Drama
-Oscars,Moulin Rouge,2001,-1,Drama
+Oscars,The Lord of the Rings: The Fellowship of the Ring,2001,-1,
 Oscars,Moulin Rouge,2001,-1,Drama
 Oscars,Chicago,2002,1,Comedy
-Oscars,Chicago,2002,1,Comedy
-DGA,Chicago,2002,1,Comedy
-DGA,Chicago,2002,1,Comedy
-BAFTA,Chicago,2002,-1,Comedy
-BAFTA,Chicago,2002,-1,Comedy
-SAG,Chicago,2002,1,Comedy
-SAG,Chicago,2002,1,Comedy
-CC,Chicago,2002,1,Comedy
-CC,Chicago,2002,1,Comedy
 Oscars,Gangs of New York,2002,-1,Crime
-DGA,Gangs of New York,2002,-1,Crime
-BAFTA,Gangs of New York,2002,-1,Crime
-CC,Gangs of New York,2002,-1,Crime
+Oscars,The Hours,2002,-1,
+Oscars,The Lord of the Rings: The Two Towers,2002,-1,
+Oscars,The Pianist,2002,-1,
+NBRA,The Longest Day,1962,1,
+NBRA,Tom Jones,1963,1,Adventure
+NBRA,Becket,1964,1,Drama
+NBRA,The Eleanor Roosevelt Story,1965,1,
+NBRA,A Man for All Seasons,1966,1,
 NBRA,Far from the Madding Crowd,1967,1,Drama
-NBRA,Far from the Madding Crowd,1967,1,Drama
+NBRA,The Shoes of the Fisherman,1968,1,
 NBRA,"They Shoot Horses, Don't They?",1969,1,Drama
-DGA,"They Shoot Horses, Don't They?",1969,-1,Drama
+NBRA,Patton,1970,1,Drama
 NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,Action
-NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,(no genres listed)
-NBRA,Macbeth,1971,1,Drama
-NBRA,Macbeth,1971,1,Drama
+NBRA,Cabaret,1972,1,Drama
+NBRA,The Sting,1973,1,Comedy
+NBRA,The Conversation,1974,1,
+NBRA,Barry Lyndon,1975,1,Drama
+NBRA,Nashville,1975,1,Drama
+NBRA,All the President's Men,1976,1,Drama
+NBRA,The Turning Point,1977,1,Action
 NBRA,Days of Heaven,1978,1,Drama
 NBRA,Manhattan,1979,1,Comedy
-DGA,Manhattan,1979,-1,Comedy
-BAFTA,Manhattan,1979,1,Comedy
+NBRA,Ordinary People,1980,1,Drama
+NBRA,Chariots of Fire,1981,1,Drama
+NBRA,Reds,1981,1,Drama
+NBRA,Gandhi,1982,1,Drama
 NBRA,Betrayal,1983,1,Drama
-NBRA,Betrayal,1983,1,Action
+NBRA,Terms of Endearment,1983,1,Comedy
+NBRA,A Passage to India,1984,1,
+NBRA,The Color Purple,1985,1,
+NBRA,A Room with a View,1986,1,
 NBRA,Empire of the Sun,1987,1,Action
-DGA,Empire of the Sun,1987,-1,Action
+NBRA,Mississippi Burning,1988,1,Crime
+NBRA,Driving Miss Daisy,1989,1,Drama
 NBRA,Dances with Wolves,1990,1,Adventure
-DGA,Dances with Wolves,1990,1,Adventure
-BAFTA,Dances with Wolves,1991,-1,Adventure
+NBRA,The Silence of the Lambs,1991,1,
+NBRA,Howards End,1992,1,Drama
+NBRA,Schindler's List,1993,1,Drama
+NBRA,Forrest Gump,1994,1,Comedy
+NBRA,Pulp Fiction,1994,1,Comedy
+NBRA,Sense and Sensibility,1995,1,Drama
+NBRA,Shine,1996,1,Drama
+NBRA,L.A. Confidential,1997,1,Crime
 NBRA,Gods and Monsters,1998,1,Drama
-SA,Gods and Monsters,1998,-1,Drama
-CC,Gods and Monsters,1998,-1,Drama
+NBRA,American Beauty,1999,1,Drama
 NBRA,Quills,2000,1,Drama
-SA,Quills,2000,-1,Drama
-CC,Quills,2000,-1,Drama
+NBRA,Moulin Rouge!,2001,1,
+NBRA,The Hours,2002,1,
 NBRA,Mystic River,2003,1,Crime
-SA,Mystic River,2003,-1,Crime
-DGA,Mystic River,2003,-1,Crime
-SAG,Mystic River,2003,-1,Crime
-CC,Mystic River,2003,-1,Crime
 NBRA,Finding Neverland,2004,1,Drama
-DGA,Finding Neverland,2004,-1,Drama
-BAFTA,Finding Neverland,2004,-1,Drama
-SAG,Finding Neverland,2004,-1,Drama
-CC,Finding Neverland,2004,-1,Drama
+NBRA,"Good Night, and Good Luck",2005,1,
 NBRA,Letters from Iwo Jima,2006,1,Drama
-CC,Letters from Iwo Jima,2006,-1,Drama
 NBRA,No Country for Old Men,2007,1,Crime
-SA,No Country for Old Men,2007,1,Crime
-DGA,No Country for Old Men,2007,1,Crime
-BAFTA,No Country for Old Men,2007,-1,Crime
-SAG,No Country for Old Men,2007,1,Crime
-CC,No Country for Old Men,2007,1,Crime
 NBRA,Slumdog Millionaire,2008,1,Crime
-SA,Slumdog Millionaire,2008,1,Crime
-DGA,Slumdog Millionaire,2008,1,Crime
-BAFTA,Slumdog Millionaire,2008,1,Crime
-SAG,Slumdog Millionaire,2008,1,Crime
-CC,Slumdog Millionaire,2008,1,Crime
 NBRA,Up in the Air,2009,1,Drama
-DGA,Up in the Air,2009,-1,Drama
-BAFTA,Up in the Air,2009,-1,Drama
-CC,Up in the Air,2009,-1,Drama
+NBRA,The Social Network,2010,1,
 NBRA,Hugo,2011,1,Children
-DGA,Hugo,2011,-1,Children
-CC,Hugo,2011,-1,Children
 NBRA,Zero Dark Thirty,2012,1,Action
-DGA,Zero Dark Thirty,2012,-1,Action
-BAFTA,Zero Dark Thirty,2012,-1,Action
-CC,Zero Dark Thirty,2012,-1,Action
 NBRA,Her,2013,1,Drama
-CC,Her,2013,-1,Drama
 NBRA,A Most Violent Year,2014,1,Action
 NBRA,Mad Max: Fury Road,2015,1,Action
-DGA,Mad Max: Fury Road,2015,-1,Action
-CC,Mad Max: Fury Road,2015,-1,Action
 NBRA,Manchester by the Sea,2016,1,Drama
-DGA,Manchester by the Sea,2016,-1,Drama
-BAFTA,Manchester by the Sea,2016,-1,Drama
-SAG,Manchester by the Sea,2016,-1,Drama
-CC,Manchester by the Sea,2016,-1,Drama
 NBRA,The Post,2017,1,Drama
-CC,The Post,2017,-1,Drama
+NBRA,Green Book,2018,1,
+SA,Fargo,1996,1,Comedy
+SA,Titanic,1997,1,Drama
+SA,The Thin Red Line,1998,1,War
+SA,The Insider,1999,1,
+SA,Traffic,2000,1,Crime
+SA,In the Bedroom,2001,1,Drama
 SA,Far from Heaven,2002,1,Drama
-CC,Far from Heaven,2002,-1,Drama
 SA,In America,2003,1,Drama
-SAG,In America,2003,-1,Drama
-CC,In America,2003,-1,Drama
 SA,Hotel Rwanda,2004,1,Drama
-SAG,Hotel Rwanda,2004,-1,Drama
-CC,Hotel Rwanda,2004,-1,Drama
 SA,Brokeback Mountain,2005,1,Drama
-DGA,Brokeback Mountain,2005,1,Drama
-BAFTA,Brokeback Mountain,2005,1,Drama
-SAG,Brokeback Mountain,2005,-1,Drama
-CC,Brokeback Mountain,2005,1,Drama
+SA,The Departed,2006,1,
+SA,No Country for Old Men,2007,1,Crime
+SA,Slumdog Millionaire,2008,1,Crime
+SA,The Hurt Locker,2009,1,
+SA,The English Patient,1996,-1,
 SA,Lone Star,1996,-1,Drama
-SA,Lone Star,1996,-1,Action
-CC,Lone Star,1996,-1,Drama
-CC,Lone Star,1996,-1,Action
+SA,Secrets & Lies,1996,-1,Drama
+SA,Shine,1996,-1,Drama
 SA,Trainspotting,1996,-1,Comedy
 SA,Amistad,1997,-1,Drama
-DGA,Amistad,1997,-1,Drama
-CC,Amistad,1997,-1,Drama
 SA,Boogie Nights,1997,-1,Drama
-SAG,Boogie Nights,1997,-1,Drama
-CC,Boogie Nights,1997,-1,Drama
+SA,Good Will Hunting,1997,-1,Drama
+SA,L.A. Confidential,1997,-1,Crime
+SA,Elizabeth,1998,-1,Drama
+SA,The General,1998,-1,
+SA,Gods and Monsters,1998,-1,Drama
+SA,Saving Private Ryan,1998,-1,Action
+SA,American Beauty,1999,-1,Drama
 SA,Boys Don't Cry,1999,-1,Drama
-SA,Boys Don't Cry,1999,-1,Comedy
 SA,Magnolia,1999,-1,Drama
-SAG,Magnolia,1999,-1,Drama
-CC,Magnolia,1999,-1,Drama
 SA,Snow Falling on Cedars,1999,-1,Drama
+SA,The Talented Mr. Ripley,1999,-1,
 SA,Billy Elliot,2000,-1,Drama
-BAFTA,Billy Elliot,2000,-1,Drama
-SAG,Billy Elliot,2000,-1,Drama
-CC,Billy Elliot,2000,-1,Drama
 SA,Dancer in the Dark,2000,-1,Drama
+SA,Erin Brockovich,2000,-1,Drama
+SA,Gladiator,2000,-1,Action
+SA,Quills,2000,-1,Drama
+SA,The Deep End,2001,-1,
 SA,Memento,2001,-1,Mystery
-DGA,Memento,2001,-1,Mystery
-CC,Memento,2001,-1,Mystery
+SA,The Others,2001,-1,
 SA,Sexy Beast,2001,-1,Crime
 SA,Antwone Fisher,2002,-1,Drama
+SA,The Hours,2002,-1,
+SA,The Lord of the Rings: The Two Towers,2002,-1,
+SA,The Quiet American,2002,-1,
 SA,Road to Perdition,2002,-1,Crime
-CC,Road to Perdition,2002,-1,Crime
+SA,The Last Samurai,2003,-1,
+SA,The Lord of the Rings: The Return of the King,2003,-1,
 SA,Master and Commander: The Far Side of the World,2003,-1,Adventure
-DGA,Master and Commander: The Far Side of the World,2003,-1,Adventure
-BAFTA,Master and Commander: The Far Side of the World,2003,-1,Adventure
-CC,Master and Commander: The Far Side of the World,2003,-1,Adventure
+SA,Mystic River,2003,-1,Crime
 SA,Thirteen,2003,-1,Drama
 SA,Whale Rider,2003,-1,Drama
+SA,The Aviator,2004,-1,
+SA,Kill Bill: Volume 2,2004,-1,
 SA,Kinsey,2004,-1,Drama
-CC,Kinsey,2004,-1,Drama
 SA,Maria Full of Grace,2004,-1,Crime
 SA,Vera Drake,2004,-1,Drama
-BAFTA,Vera Drake,2004,-1,Drama
+SA,A History of Violence,2005,-1,
 SA,Capote,2005,-1,Crime
-DGA,Capote,2005,-1,Crime
-BAFTA,Capote,2005,-1,Crime
-SAG,Capote,2005,-1,Crime
-CC,Capote,2005,-1,Crime
 SA,Cinderella Man,2005,-1,Drama
-CC,Cinderella Man,2005,-1,Drama
 SA,Memoirs of a Geisha,2005,-1,Drama
-CC,Memoirs of a Geisha,2005,-1,Drama
+SA,The War Within,2005,-1,
 SA,Babel,2006,-1,Drama
-DGA,Babel,2006,-1,Drama
-BAFTA,Babel,2006,-1,Drama
-SAG,Babel,2006,-1,Drama
-CC,Babel,2006,-1,Drama
 SA,Flags of Our Fathers,2006,-1,Drama
 SA,Half Nelson,2006,-1,Drama
+SA,The Last King of Scotland,2006,-1,
 SA,Little Children,2006,-1,Drama
-CC,Little Children,2006,-1,Drama
 SA,The Queen,2006,-1,Drama
-SA,The Queen,2006,-1,Documentary
-DGA,The Queen,2006,-1,Drama
-DGA,The Queen,2006,-1,Documentary
-BAFTA,The Queen,2006,1,Drama
-BAFTA,The Queen,2006,1,Documentary
-CC,The Queen,2006,-1,Drama
-CC,The Queen,2006,-1,Documentary
 SA,3:10 to Yuma,2007,-1,Action
-SA,3:10 to Yuma,2007,-1,Action
-SAG,3:10 to Yuma,2007,-1,Action
-SAG,3:10 to Yuma,2007,-1,Action
 SA,Away from Her,2007,-1,Drama
 SA,Before the Devil Knows You're Dead,2007,-1,Crime
 SA,Eastern Promises,2007,-1,Crime
 SA,The Lookout,2007,-1,Action
 SA,Frost/Nixon,2008,-1,Drama
-DGA,Frost/Nixon,2008,-1,Drama
-BAFTA,Frost/Nixon,2008,-1,Drama
-SAG,Frost/Nixon,2008,-1,Drama
-CC,Frost/Nixon,2008,-1,Drama
 SA,Frozen River,2008,-1,Drama
 SA,Milk,2008,-1,Drama
-SA,Milk,2008,-1,(no genres listed)
-DGA,Milk,2008,-1,Drama
-DGA,Milk,2008,-1,(no genres listed)
-BAFTA,Milk,2008,-1,Drama
-BAFTA,Milk,2008,-1,(no genres listed)
-SAG,Milk,2008,-1,Drama
-SAG,Milk,2008,-1,(no genres listed)
-CC,Milk,2008,-1,Drama
-CC,Milk,2008,-1,(no genres listed)
 SA,The Reader,2008,-1,Comedy
-BAFTA,The Reader,2008,-1,Comedy
-CC,The Reader,2008,-1,Comedy
 SA,Revolutionary Road,2008,-1,Drama
 SA,Bright Star,2009,-1,Drama
+SA,An Education,2009,-1,
+SA,The Messenger,2009,-1,
 SA,Precious,2009,-1,Drama
-DGA,Precious,2009,-1,Drama
-BAFTA,Precious,2009,-1,Drama
-SAG,Precious,2009,-1,Drama
-CC,Precious,2009,-1,Drama
+SA,The Stoning of Soraya M.,2009,-1,
 SA,Black Panther,2018,-1,Action
-SAG,Black Panther,2018,1,Action
-CC,Black Panther,2018,-1,Action
+SA,First Man,2018,-1,
 SA,Hereditary,2018,-1,(no genres listed)
 SA,If Beale Street Could Talk,2018,-1,Drama
-CC,If Beale Street Could Talk,2018,-1,Drama
 SA,Mary Queen of Scots,2018,-1,Drama
 SA,Widows,2018,-1,Drama
+DGA,Lawrence of Arabia,1962,1,Adventure
+DGA,Tom Jones,1963,1,Adventure
+DGA,My Fair Lady,1964,1,Comedy
+DGA,The Sound of Music,1965,1,
+DGA,A Man for All Seasons,1966,1,
+DGA,The Graduate,1967,1,
+DGA,The Lion in Winter,1968,1,
+DGA,Midnight Cowboy,1969,1,Drama
+DGA,Patton,1970,1,Drama
+DGA,The French Connection,1971,1,
+DGA,The Godfather,1972,1,
+DGA,The Sting,1973,1,Comedy
+DGA,The Godfather Part II,1974,1,
 DGA,One Flew Over the Cuckoo's Nest,1975,1,Drama
-BAFTA,One Flew Over the Cuckoo's Nest,1976,1,Drama
+DGA,Rocky,1976,1,Drama
+DGA,Annie Hall,1977,1,Comedy
+DGA,The Deer Hunter,1978,1,
+DGA,Kramer vs. Kramer,1979,1,Drama
+DGA,Ordinary People,1980,1,Drama
+DGA,Reds,1981,1,Drama
+DGA,Gandhi,1982,1,Drama
+DGA,Terms of Endearment,1983,1,Comedy
+DGA,Amadeus,1984,1,Drama
+DGA,The Color Purple,1985,1,
+DGA,Platoon,1986,1,Drama
+DGA,The Last Emperor,1987,1,
+DGA,Rain Man,1988,1,Drama
+DGA,Born on the Fourth of July,1989,1,Drama
+DGA,Dances with Wolves,1990,1,Adventure
+DGA,The Silence of the Lambs,1991,1,
+DGA,Unforgiven,1992,1,Drama
+DGA,Schindler's List,1993,1,Drama
+DGA,Forrest Gump,1994,1,Comedy
+DGA,Apollo 13,1995,1,Adventure
+DGA,The English Patient,1996,1,
+DGA,Titanic,1997,1,Drama
+DGA,Saving Private Ryan,1998,1,Action
+DGA,American Beauty,1999,1,Drama
+DGA,"Crouching Tiger, Hidden Dragon",2000,1,Action
+DGA,A Beautiful Mind,2001,1,
+DGA,Chicago,2002,1,Comedy
+DGA,The Lord of the Rings: The Return of the King,2003,1,
 DGA,Million Dollar Baby,2004,1,Drama
-DGA,Million Dollar Baby,2004,1,Comedy
-SAG,Million Dollar Baby,2004,-1,Drama
-SAG,Million Dollar Baby,2004,-1,Comedy
-CC,Million Dollar Baby,2004,-1,Drama
-CC,Million Dollar Baby,2004,-1,Comedy
+DGA,Brokeback Mountain,2005,1,Drama
+DGA,The Departed,2006,1,
+DGA,No Country for Old Men,2007,1,Crime
+DGA,Slumdog Millionaire,2008,1,Crime
+DGA,The Hurt Locker,2009,1,
+DGA,The King's Speech,2010,1,
 DGA,The Artist,2011,1,Comedy
-DGA,The Artist,2011,1,Comedy
-BAFTA,The Artist,2011,1,Comedy
-BAFTA,The Artist,2011,1,Comedy
-SAG,The Artist,2011,-1,Comedy
-SAG,The Artist,2011,-1,Comedy
-CC,The Artist,2011,1,Comedy
-CC,The Artist,2011,1,Comedy
 DGA,Argo,2012,1,Drama
-DGA,Argo,2012,1,Action
-BAFTA,Argo,2012,1,Drama
-BAFTA,Argo,2012,1,Action
-SAG,Argo,2012,1,Drama
-SAG,Argo,2012,1,Action
-CC,Argo,2012,1,Drama
-CC,Argo,2012,1,Action
 DGA,Gravity,2013,1,Crime
-DGA,Gravity,2013,1,Action
-BAFTA,Gravity,2013,-1,Crime
-BAFTA,Gravity,2013,-1,Action
-CC,Gravity,2013,-1,Crime
-CC,Gravity,2013,-1,Action
+DGA,Birdman or (The Unexpected Virtue of Ignorance),2014,1,
 DGA,The Revenant,2015,1,Adventure
-BAFTA,The Revenant,2015,1,Adventure
-CC,The Revenant,2015,-1,Adventure
 DGA,La La Land,2016,1,Comedy
-BAFTA,La La Land,2016,1,Comedy
-CC,La La Land,2016,-1,Comedy
 DGA,The Shape of Water,2017,1,Adventure
-BAFTA,The Shape of Water,2017,-1,Adventure
-CC,The Shape of Water,2017,1,Adventure
 DGA,Roma,2018,1,Drama
-DGA,Roma,2018,1,Drama
-BAFTA,Roma,2018,1,Drama
-BAFTA,Roma,2018,1,Drama
-CC,Roma,2018,1,Drama
-CC,Roma,2018,1,Drama
 DGA,What Ever Happened to Baby Jane?,1962,-1,Drama
+DGA,The Music Man,1962,-1,
 DGA,Lolita,1962,-1,Drama
-DGA,Lolita,1962,-1,Drama
+DGA,Mutiny on the Bounty,1962,-1,Adventure
+DGA,To Kill a Mockingbird,1962,-1,Drama
 DGA,Requiem for a Heavyweight,1962,-1,Drama
 DGA,The Miracle Worker,1962,-1,Drama
-DGA,The Miracle Worker,1962,-1,Drama
-BAFTA,The Miracle Worker,1962,-1,Drama
-BAFTA,The Miracle Worker,1962,-1,Drama
+DGA,A Taste of Honey,1962,-1,
+DGA,8½,1963,-1,
+DGA,America America,1963,-1,
+DGA,Lilies of the Field,1963,-1,Drama
 DGA,Hud,1963,-1,Drama
-BAFTA,Hud,1963,-1,Drama
+DGA,Becket,1964,-1,Drama
+DGA,The Night of the Iguana,1964,-1,
+DGA,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,-1,Comedy
+DGA,Mary Poppins,1964,-1,Children
+DGA,The Ipcress File,1965,-1,
+DGA,The Pawnbroker,1965,-1,
+DGA,Darling,1965,-1,Drama
 DGA,Cat Ballou,1965,-1,Comedy
+DGA,The Professionals,1966,-1,
 DGA,Grand Prix,1966,-1,Drama
+DGA,Alfie,1966,-1,Comedy
 DGA,Born Free,1966,-1,Adventure
+DGA,"The Russians Are Coming, the Russians Are Coming",1966,-1,
 DGA,A Man and a Woman,1966,-1,Drama
-BAFTA,A Man and a Woman,1967,-1,Drama
 DGA,Georgy Girl,1966,-1,Comedy
+DGA,Who's Afraid of Virginia Woolf?,1966,-1,Drama
+DGA,The Sand Pebbles,1966,-1,
+DGA,The Dirty Dozen,1967,-1,
 DGA,In Cold Blood,1967,-1,Crime
-DGA,In Cold Blood,1967,-1,Crime
+DGA,"To Sir, with Love",1967,-1,
 DGA,Two for the Road,1967,-1,Comedy
+DGA,In the Heat of the Night,1967,-1,Drama
+DGA,Guess Who's Coming to Dinner,1967,-1,Drama
+DGA,Bonnie and Clyde,1967,-1,Crime
 DGA,Cool Hand Luke,1967,-1,Drama
 DGA,Ulysses,1967,-1,Adventure
-DGA,Ulysses,1967,-1,Drama
+DGA,Isabel,1968,-1,
 DGA,2001: A Space Odyssey,1968,-1,Adventure
-BAFTA,2001: A Space Odyssey,1968,-1,Adventure
 DGA,Closely Watched Trains,1968,-1,Comedy
+DGA,"Rachel, Rachel",1968,-1,Drama
 DGA,Rosemary's Baby,1968,-1,Drama
-DGA,Rosemary's Baby,1968,-1,Horror
+DGA,Oliver!,1968,-1,Drama
+DGA,The Odd Couple,1968,-1,
+DGA,Funny Girl,1968,-1,Drama
+DGA,Romeo and Juliet,1968,-1,Drama
 DGA,Oh! What a Lovely War,1969,-1,Musical
-BAFTA,Oh! What a Lovely War,1969,-1,Musical
+DGA,Z,1969,-1,Drama
+DGA,Butch Cassidy and the Sundance Kid,1969,-1,Action
 DGA,Easy Rider,1969,-1,Adventure
+DGA,"Hello, Dolly!",1969,-1,Comedy
+DGA,The Wild Bunch,1969,-1,
 DGA,"Goodbye, Columbus",1969,-1,Comedy
+DGA,"They Shoot Horses, Don't They?",1969,-1,Drama
 DGA,Medium Cool,1969,-1,Drama
+DGA,M*A*S*H,1970,-1,Comedy
+DGA,Love Story,1970,-1,Drama
 DGA,Ryan's Daughter,1970,-1,Drama
-BAFTA,Ryan's Daughter,1970,-1,Drama
+DGA,Five Easy Pieces,1970,-1,Drama
+DGA,The Last Picture Show,1971,-1,
+DGA,A Clockwork Orange,1971,-1,
 DGA,Summer of '42,1971,-1,Drama
 DGA,Sunday Bloody Sunday,1971,-1,Drama
-BAFTA,Sunday Bloody Sunday,1971,1,Drama
+DGA,Deliverance,1972,-1,Adventure
+DGA,Cabaret,1972,-1,Drama
 DGA,Slaughterhouse-Five,1972,-1,Comedy
+DGA,Sounder,1972,-1,Drama
 DGA,Last Tango in Paris,1973,-1,Drama
+DGA,The Exorcist,1973,-1,
+DGA,American Graffiti,1973,-1,Comedy
 DGA,Serpico,1973,-1,Crime
+DGA,The Conversation,1974,-1,
+DGA,Lenny,1974,-1,Drama
 DGA,Murder on the Orient Express,1974,-1,Crime
-DGA,Murder on the Orient Express,1974,-1,Crime
-DGA,Murder on the Orient Express,1974,-1,Crime
-DGA,Murder on the Orient Express,1974,-1,Crime
-BAFTA,Murder on the Orient Express,1974,-1,Crime
-BAFTA,Murder on the Orient Express,1974,-1,Crime
-BAFTA,Murder on the Orient Express,1974,-1,Crime
-BAFTA,Murder on the Orient Express,1974,-1,Crime
+DGA,Chinatown,1974,-1,Crime
+DGA,Nashville,1975,-1,Drama
+DGA,Barry Lyndon,1975,-1,Drama
+DGA,Dog Day Afternoon,1975,-1,Crime
+DGA,Jaws,1975,-1,Action
+DGA,Network,1976,-1,Comedy
+DGA,All the President's Men,1976,-1,Drama
+DGA,Taxi Driver,1976,-1,Crime
 DGA,Seven Beauties,1976,-1,Comedy
+DGA,Star Wars,1977,-1,
+DGA,The Turning Point,1977,-1,Action
 DGA,Close Encounters of the Third Kind,1977,-1,Adventure
-BAFTA,Close Encounters of the Third Kind,1978,-1,Adventure
+DGA,Julia,1977,-1,Drama
+DGA,Coming Home,1978,-1,Drama
+DGA,Heaven Can Wait,1978,-1,Comedy
+DGA,An Unmarried Woman,1978,-1,
+DGA,Midnight Express,1978,-1,Drama
+DGA,Manhattan,1979,-1,Comedy
+DGA,The China Syndrome,1979,-1,
+DGA,Apocalypse Now,1979,-1,Action
+DGA,Breaking Away,1979,-1,Comedy
+DGA,Coal Miner's Daughter,1980,-1,Drama
+DGA,The Elephant Man,1980,-1,Drama
+DGA,The Stunt Man,1980,-1,
+DGA,Raging Bull,1980,-1,Drama
+DGA,Chariots of Fire,1981,-1,Drama
+DGA,Atlantic City,1981,-1,Crime
+DGA,On Golden Pond,1981,-1,Drama
+DGA,Raiders of the Lost Ark,1981,-1,Action
+DGA,An Officer and a Gentleman,1982,-1,
+DGA,Das Boot,1982,-1,
+DGA,Tootsie,1982,-1,Comedy
 DGA,E.T. the Extra-Terrestrial,1982,-1,Children
-BAFTA,E.T. the Extra-Terrestrial,1982,-1,Children
+DGA,Tender Mercies,1983,-1,Drama
 DGA,Fanny and Alexander,1983,-1,Drama
+DGA,The Big Chill,1983,-1,
+DGA,The Right Stuff,1983,-1,
+DGA,Places in the Heart,1984,-1,Drama
+DGA,A Soldier's Story,1984,-1,
+DGA,The Killing Fields,1984,-1,
+DGA,A Passage to India,1984,-1,
 DGA,Cocoon,1985,-1,Comedy
+DGA,Prizzi's Honor,1985,-1,Comedy
+DGA,Out of Africa,1985,-1,Drama
+DGA,Witness,1985,-1,Drama
+DGA,Hannah and Her Sisters,1986,-1,Comedy
+DGA,Children of a Lesser God,1986,-1,Drama
+DGA,A Room with a View,1986,-1,
 DGA,Stand by Me,1986,-1,Adventure
+DGA,Broadcast News,1987,-1,Comedy
 DGA,My Life as a Dog,1987,-1,Comedy
+DGA,Fatal Attraction,1987,-1,Drama
+DGA,Empire of the Sun,1987,-1,Action
+DGA,A Fish Called Wanda,1988,-1,
+DGA,Working Girl,1988,-1,Comedy
+DGA,Mississippi Burning,1988,-1,Crime
+DGA,Who Framed Roger Rabbit,1988,-1,
 DGA,Crimes and Misdemeanors,1989,-1,Comedy
-BAFTA,Crimes and Misdemeanors,1990,-1,Comedy
 DGA,When Harry Met Sally...,1989,-1,Comedy
-BAFTA,When Harry Met Sally...,1989,-1,Comedy
-DGA,Avalon,1990,-1,Drama
-DGA,Avalon,1990,-1,Drama
+DGA,Field of Dreams,1989,-1,Children
+DGA,Dead Poets Society,1989,-1,Drama
+DGA,The Godfather Part III,1990,-1,
 DGA,Avalon,1990,-1,Drama
 DGA,Goodfellas,1990,-1,Crime
-BAFTA,Goodfellas,1990,1,Crime
 DGA,Cinema Paradiso,1990,-1,Drama
+DGA,Bugsy,1991,-1,Crime
+DGA,Thelma and Louise,1991,-1,
+DGA,JFK,1991,-1,Drama
+DGA,The Prince of Tides,1991,-1,
+DGA,The Player,1992,-1,
+DGA,Howards End,1992,-1,Drama
+DGA,The Crying Game,1992,-1,
+DGA,A Few Good Men,1992,-1,
+DGA,The Piano,1993,-1,
+DGA,The Fugitive,1993,-1,
+DGA,The Remains of the Day,1993,-1,
+DGA,The Age of Innocence,1993,-1,
+DGA,The Shawshank Redemption,1994,-1,
+DGA,Four Weddings and a Funeral,1994,-1,Comedy
+DGA,Quiz Show,1994,-1,Drama
+DGA,Pulp Fiction,1994,-1,Comedy
 DGA,Leaving Las Vegas,1995,-1,Drama
+DGA,Braveheart,1995,-1,Action
+DGA,Sense and Sensibility,1995,-1,Drama
+DGA,Il Postino: The Postman,1995,-1,
+DGA,Fargo,1996,-1,Comedy
+DGA,Jerry Maguire,1996,-1,Drama
+DGA,Shine,1996,-1,Drama
+DGA,Secrets and Lies,1996,-1,
+DGA,As Good as It Gets,1997,-1,Comedy
+DGA,L.A. Confidential,1997,-1,Crime
+DGA,Amistad,1997,-1,Drama
+DGA,Good Will Hunting,1997,-1,Drama
+DGA,Life Is Beautiful,1998,-1,Comedy
+DGA,Shakespeare in Love,1998,-1,Comedy
+DGA,The Thin Red Line,1998,-1,War
+DGA,The Truman Show,1998,-1,
+DGA,The Green Mile,1999,-1,
 DGA,Being John Malkovich,1999,-1,Comedy
-SAG,Being John Malkovich,1999,-1,Comedy
-CC,Being John Malkovich,1999,-1,Comedy
+DGA,The Insider,1999,-1,
+DGA,The Sixth Sense,1999,-1,
 DGA,Almost Famous,2000,-1,Drama
-BAFTA,Almost Famous,2000,-1,Drama
-SAG,Almost Famous,2000,-1,Drama
-CC,Almost Famous,2000,-1,Drama
+DGA,Gladiator,2000,-1,Action
+DGA,Erin Brockovich,2000,-1,Drama
+DGA,Traffic,2000,-1,Crime
+DGA,The Lord of the Rings: The Fellowship of the Ring,2001,-1,
+DGA,Moulin Rouge!,2001,-1,
+DGA,Memento,2001,-1,Mystery
 DGA,Black Hawk Down,2001,-1,Action
+DGA,The Hours,2002,-1,
+DGA,The Lord of the Rings: The Two Towers,2002,-1,
+DGA,The Pianist,2002,-1,
+DGA,Gangs of New York,2002,-1,Crime
 DGA,Lost in Translation,2003,-1,Comedy
-BAFTA,Lost in Translation,2003,-1,Comedy
-CC,Lost in Translation,2003,-1,Comedy
+DGA,Mystic River,2003,-1,Crime
 DGA,Seabiscuit,2003,-1,Drama
-SAG,Seabiscuit,2003,-1,Drama
-CC,Seabiscuit,2003,-1,Drama
+DGA,Master and Commander: The Far Side of the World,2003,-1,Adventure
+DGA,Finding Neverland,2004,-1,Drama
 DGA,Ray,2004,-1,Drama
-SAG,Ray,2004,-1,Drama
-CC,Ray,2004,-1,Drama
 DGA,Sideways,2004,-1,Comedy
-DGA,Sideways,2004,-1,Comedy
-SAG,Sideways,2004,1,Comedy
-SAG,Sideways,2004,1,Comedy
-CC,Sideways,2004,1,Comedy
-CC,Sideways,2004,1,Comedy
+DGA,The Aviator,2004,-1,
+DGA,"Good Night, and Good Luck",2005,-1,
 DGA,Crash,2005,-1,Drama
-DGA,Crash,2005,-1,Crime
-BAFTA,Crash,2005,-1,Drama
-BAFTA,Crash,2005,-1,Crime
-SAG,Crash,2005,1,Drama
-SAG,Crash,2005,1,Crime
-CC,Crash,2005,-1,Drama
-CC,Crash,2005,-1,Crime
+DGA,Capote,2005,-1,Crime
 DGA,Munich,2005,-1,Action
-CC,Munich,2005,-1,Action
 DGA,Dreamgirls,2006,-1,Drama
-SAG,Dreamgirls,2006,-1,Drama
-CC,Dreamgirls,2006,-1,Drama
 DGA,Little Miss Sunshine,2006,-1,Adventure
-BAFTA,Little Miss Sunshine,2006,-1,Adventure
-SAG,Little Miss Sunshine,2006,1,Adventure
-CC,Little Miss Sunshine,2006,-1,Adventure
+DGA,The Queen,2006,-1,Drama
+DGA,Babel,2006,-1,Drama
 DGA,There Will Be Blood,2007,-1,Drama
-BAFTA,There Will Be Blood,2007,-1,Drama
-CC,There Will Be Blood,2007,-1,Drama
 DGA,Michael Clayton,2007,-1,Drama
-CC,Michael Clayton,2007,-1,Drama
 DGA,Into the Wild,2007,-1,Action
-SAG,Into the Wild,2007,-1,Action
-CC,Into the Wild,2007,-1,Action
+DGA,The Diving Bell and the Butterfly,2007,-1,
+DGA,The Curious Case of Benjamin Button,2008,-1,
+DGA,Frost/Nixon,2008,-1,Drama
 DGA,The Dark Knight,2008,-1,Action
-CC,The Dark Knight,2008,-1,Action
+DGA,Milk,2008,-1,Drama
 DGA,Avatar,2009,-1,Action
-BAFTA,Avatar,2009,-1,Action
-CC,Avatar,2009,-1,Action
+DGA,Precious,2009,-1,Drama
+DGA,Up in the Air,2009,-1,Drama
 DGA,Inglourious Basterds,2009,-1,Action
-SAG,Inglourious Basterds,2009,1,Action
-CC,Inglourious Basterds,2009,-1,Action
 DGA,Black Swan,2010,-1,Drama
-BAFTA,Black Swan,2010,-1,Drama
-SAG,Black Swan,2010,-1,Drama
-CC,Black Swan,2010,-1,Drama
+DGA,The Social Network,2010,-1,
 DGA,Inception,2010,-1,Action
-BAFTA,Inception,2010,-1,Action
-CC,Inception,2010,-1,Action
+DGA,The Fighter,2010,-1,
 DGA,Midnight in Paris,2011,-1,Comedy
-SAG,Midnight in Paris,2011,-1,Comedy
-CC,Midnight in Paris,2011,-1,Comedy
+DGA,The Girl with the Dragon Tattoo,2011,-1,
+DGA,The Descendants,2011,-1,
+DGA,Hugo,2011,-1,Children
+DGA,Zero Dark Thirty,2012,-1,Action
 DGA,Les Misérables,2012,-1,(no genres listed)
-BAFTA,Les Misérables,2012,-1,(no genres listed)
-SAG,Les Misérables,2012,-1,(no genres listed)
-CC,Les Misérables,2012,-1,(no genres listed)
 DGA,Life of Pi,2012,-1,Adventure
-BAFTA,Life of Pi,2012,-1,Adventure
-CC,Life of Pi,2012,-1,Adventure
 DGA,Lincoln,2012,-1,Drama
-BAFTA,Lincoln,2012,-1,Drama
-SAG,Lincoln,2012,-1,Drama
-CC,Lincoln,2012,-1,Drama
 DGA,Captain Phillips,2013,-1,Adventure
-BAFTA,Captain Phillips,2013,-1,Adventure
-CC,Captain Phillips,2013,-1,Adventure
 DGA,12 Years a Slave,2013,-1,Drama
-BAFTA,12 Years a Slave,2013,1,Drama
-SAG,12 Years a Slave,2013,-1,Drama
-CC,12 Years a Slave,2013,1,Drama
 DGA,American Hustle,2013,-1,Crime
-BAFTA,American Hustle,2013,-1,Crime
-SAG,American Hustle,2013,1,Crime
-CC,American Hustle,2013,-1,Crime
+DGA,The Wolf of Wall Street,2013,-1,
+DGA,The Grand Budapest Hotel,2014,-1,
 DGA,American Sniper,2014,-1,Action
 DGA,Boyhood,2014,-1,Drama
-BAFTA,Boyhood,2014,1,Drama
-SAG,Boyhood,2014,-1,Drama
-CC,Boyhood,2014,1,Drama
 DGA,The Imitation Game,2014,-1,Drama
-BAFTA,The Imitation Game,2014,-1,Drama
-SAG,The Imitation Game,2014,-1,Drama
-CC,The Imitation Game,2014,-1,Drama
 DGA,Spotlight,2015,-1,Thriller
-BAFTA,Spotlight,2015,-1,Thriller
-SAG,Spotlight,2015,1,Thriller
-CC,Spotlight,2015,1,Thriller
+DGA,The Big Short,2015,-1,
+DGA,Mad Max: Fury Road,2015,-1,Action
 DGA,The Martian,2015,-1,Adventure
-CC,The Martian,2015,-1,Adventure
 DGA,Lion,2016,-1,Drama
-CC,Lion,2016,-1,Drama
 DGA,Moonlight,2016,-1,Drama
-DGA,Moonlight,2016,-1,(no genres listed)
-BAFTA,Moonlight,2016,-1,Drama
-BAFTA,Moonlight,2016,-1,(no genres listed)
-SAG,Moonlight,2016,-1,Drama
-SAG,Moonlight,2016,-1,(no genres listed)
-CC,Moonlight,2016,1,Drama
-CC,Moonlight,2016,1,(no genres listed)
+DGA,Manchester by the Sea,2016,-1,Drama
 DGA,Arrival,2016,-1,Sci-Fi
-BAFTA,Arrival,2016,-1,Sci-Fi
-CC,Arrival,2016,-1,Sci-Fi
 DGA,Lady Bird,2017,-1,Comedy
-SAG,Lady Bird,2017,-1,Comedy
-CC,Lady Bird,2017,-1,Comedy
 DGA,"Three Billboards Outside Ebbing, Missouri",2017,-1,Crime
-BAFTA,"Three Billboards Outside Ebbing, Missouri",2017,1,Crime
-SAG,"Three Billboards Outside Ebbing, Missouri",2017,1,Crime
-CC,"Three Billboards Outside Ebbing, Missouri",2017,-1,Crime
 DGA,Dunkirk,2017,-1,War
-DGA,Dunkirk,2017,-1,Action
-BAFTA,Dunkirk,2017,-1,War
-BAFTA,Dunkirk,2017,-1,Action
-CC,Dunkirk,2017,-1,War
-CC,Dunkirk,2017,-1,Action
 DGA,Get Out,2017,-1,Horror
-DGA,Get Out,2017,-1,Animation
-SAG,Get Out,2017,-1,Horror
-SAG,Get Out,2017,-1,Animation
-CC,Get Out,2017,-1,Horror
-CC,Get Out,2017,-1,Animation
 DGA,A Star Is Born,2018,-1,Drama
-SAG,A Star Is Born,2018,-1,Drama
-CC,A Star Is Born,2018,-1,Drama
+DGA,Green Book,2018,-1,
 DGA,BlacKkKlansman,2018,-1,Comedy
-BAFTA,BlacKkKlansman,2018,-1,Comedy
-SAG,BlacKkKlansman,2018,-1,Comedy
-CC,BlacKkKlansman,2018,-1,Comedy
 DGA,Vice,2018,-1,Crime
-DGA,Vice,2018,-1,Action
-CC,Vice,2018,-1,Crime
-CC,Vice,2018,-1,Action
+BAFTA,Lawrence of Arabia,1962,1,Adventure
+BAFTA,Tom Jones,1963,1,Adventure
+BAFTA,Dr. Strangelove,1964,1,
+BAFTA,My Fair Lady,1965,1,Comedy
+BAFTA,Who's Afraid of Virginia Woolf?,1966,1,Drama
+BAFTA,A Man For All Seasons,1967,1,
+BAFTA,The Graduate,1968,1,
+BAFTA,Midnight Cowboy,1969,1,Drama
+BAFTA,Butch Cassidy and the Sundance Kid,1970,1,Action
+BAFTA,Sunday Bloody Sunday,1971,1,Drama
+BAFTA,Cabaret,1972,1,Drama
 BAFTA,Day for Night,1973,1,Comedy
 BAFTA,Lacombe Lucien,1974,1,Drama
 BAFTA,Alice Doesn't Live Here Anymore,1975,1,Drama
+BAFTA,One Flew Over the Cuckoo's Nest,1976,1,Drama
+BAFTA,Annie Hall,1977,1,Comedy
+BAFTA,Julia,1978,1,Drama
+BAFTA,Manhattan,1979,1,Comedy
+BAFTA,The Elephant Man,1980,1,Drama
+BAFTA,Chariots of Fire,1981,1,Drama
+BAFTA,Gandhi,1982,1,Drama
 BAFTA,Educating Rita,1983,1,Comedy
+BAFTA,The Killing Fields,1984,1,
+BAFTA,The Purple Rose of Cairo,1985,1,
+BAFTA,A Room with a View,1986,1,
 BAFTA,Jean de Florette,1987,1,Drama
+BAFTA,The Last Emperor,1988,1,
+BAFTA,Dead Poets Society,1989,1,Drama
+BAFTA,Goodfellas,1990,1,Crime
+BAFTA,The Commitments,1991,1,
+BAFTA,Howards End,1992,1,Drama
+BAFTA,Schindler's List,1993,1,Drama
+BAFTA,Four Weddings and a Funeral,1994,1,Comedy
+BAFTA,Sense and Sensibility,1995,1,Drama
+BAFTA,The English Patient,1996,1,
+BAFTA,The Full Monty,1997,1,
+BAFTA,Shakespeare in Love,1998,1,Comedy
+BAFTA,American Beauty,1999,1,Drama
+BAFTA,Gladiator,2000,1,Action
+BAFTA,The Lord of the Rings: The Fellowship of the Ring,2001,1,
+BAFTA,The Pianist,2002,1,
+BAFTA,The Lord of the Rings: The Return of the King,2003,1,
+BAFTA,The Aviator,2004,1,
+BAFTA,Brokeback Mountain,2005,1,Drama
+BAFTA,The Queen,2006,1,Drama
 BAFTA,Atonement,2007,1,Drama
-CC,Atonement,2007,-1,Drama
+BAFTA,Slumdog Millionaire,2008,1,Crime
+BAFTA,The Hurt Locker,2009,1,
+BAFTA,The King's Speech,2010,1,
+BAFTA,The Artist,2011,1,Comedy
+BAFTA,Argo,2012,1,Drama
+BAFTA,12 Years a Slave,2013,1,Drama
+BAFTA,Boyhood,2014,1,Drama
+BAFTA,The Revenant,2015,1,Adventure
+BAFTA,La La Land,2016,1,Comedy
+BAFTA,"Three Billboards Outside Ebbing, Missouri",2017,1,Crime
+BAFTA,Roma,2018,1,Drama
 BAFTA,Last Year at Marienbad,1962,-1,Drama
 BAFTA,Billy Budd,1962,-1,Adventure
 BAFTA,The Elusive Corporal,1962,-1,Comedy
+BAFTA,The Lady with the Dog,1962,-1,
+BAFTA,The Naked Island,1962,-1,
 BAFTA,Jules and Jim,1962,-1,Drama
+BAFTA,A Kind of Loving,1962,-1,
+BAFTA,The L-Shaped Room,1962,-1,
 BAFTA,Lola,1962,-1,Drama
-BAFTA,Lola,1962,-1,Drama
-BAFTA,Lola,1962,-1,Comedy
+BAFTA,The Manchurian Candidate,1962,-1,
+BAFTA,The Miracle Worker,1962,-1,Drama
 BAFTA,Only Two Can Play,1962,-1,Comedy
 BAFTA,Phaedra,1962,-1,Drama
 BAFTA,Through a Glass Darkly,1962,-1,Drama
+BAFTA,Thou Shalt Not Kill,1962,-1,
+BAFTA,The Long Absence,1962,-1,
 BAFTA,West Side Story,1962,-1,Drama
+BAFTA,8½,1963,-1,
 BAFTA,Billy Liar,1963,-1,Comedy
 BAFTA,David and Lisa,1963,-1,Drama
-BAFTA,David and Lisa,1963,-1,Drama
 BAFTA,Days of Wine and Roses,1963,-1,Drama
+BAFTA,"Divorce, Italian Style",1963,-1,
+BAFTA,Hud,1963,-1,Drama
 BAFTA,Knife in the Water,1963,-1,Drama
+BAFTA,The Four Days of Naples,1963,-1,
+BAFTA,The Servant,1963,-1,
 BAFTA,This Sporting Life,1963,-1,Drama
+BAFTA,To Kill a Mockingbird,1963,-1,Drama
+BAFTA,Becket,1964,-1,Drama
+BAFTA,The Pumpkin Eater,1964,-1,
+BAFTA,The Train,1964,-1,
 BAFTA,Hamlet,1965,-1,Crime
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,Crime
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,Drama
-BAFTA,Hamlet,1965,-1,(no genres listed)
-CC,Hamlet,1996,-1,Crime
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,Crime
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,Drama
-CC,Hamlet,1996,-1,(no genres listed)
+BAFTA,The Hill,1965,-1,
+BAFTA,The Knack ...and How to Get It,1965,-1,
+BAFTA,Zorba the Greek,1965,-1,Adventure
+BAFTA,Doctor Zhivago,1966,-1,Drama
+BAFTA,Morgan – A Suitable Case for Treatment,1966,-1,
+BAFTA,The Spy Who Came in From The Cold,1966,-1,
+BAFTA,Bonnie and Clyde,1967,-1,Crime
+BAFTA,In the Heat of the Night,1967,-1,Drama
+BAFTA,A Man and a Woman,1967,-1,Drama
+BAFTA,2001: A Space Odyssey,1968,-1,Adventure
+BAFTA,Oliver!,1968,-1,Drama
+BAFTA,Closely Observed Trains,1968,-1,
+BAFTA,Oh! What a Lovely War,1969,-1,Musical
 BAFTA,Women in Love,1969,-1,Drama
-BAFTA,Women in Love,1969,-1,Drama
+BAFTA,Z,1969,-1,Drama
 BAFTA,Kes,1970,-1,Drama
+BAFTA,M*A*S*H,1970,-1,Comedy
+BAFTA,Ryan's Daughter,1970,-1,Drama
+BAFTA,The Go-Between,1971,-1,
 BAFTA,Death in Venice,1971,-1,Drama
 BAFTA,Taking Off,1971,-1,Comedy
+BAFTA,A Clockwork Orange,1972,-1,
+BAFTA,The French Connection,1972,-1,
+BAFTA,The Last Picture Show,1972,-1,
+BAFTA,The Day of the Jackal,1973,-1,
+BAFTA,The Discreet Charm of the Bourgeoisie,1973,-1,
 BAFTA,Don't Look Now,1973,-1,Drama
+BAFTA,Chinatown,1974,-1,Crime
+BAFTA,The Last Detail,1974,-1,
+BAFTA,Murder on the Orient Express,1974,-1,Crime
+BAFTA,Barry Lyndon,1975,-1,Drama
+BAFTA,Dog Day Afternoon,1975,-1,Crime
+BAFTA,Jaws,1975,-1,Action
+BAFTA,All the President's Men,1976,-1,Drama
 BAFTA,Bugsy Malone,1976,-1,Children
+BAFTA,Taxi Driver,1976,-1,Crime
+BAFTA,A Bridge Too Far,1977,-1,
+BAFTA,Network,1977,-1,Comedy
+BAFTA,Rocky,1977,-1,Drama
+BAFTA,Close Encounters of the Third Kind,1978,-1,Adventure
+BAFTA,Midnight Express,1978,-1,Drama
+BAFTA,Star Wars,1978,-1,
+BAFTA,Apocalypse Now,1979,-1,Action
+BAFTA,The China Syndrome,1979,-1,
+BAFTA,The Deer Hunter,1979,-1,
 BAFTA,Being There,1980,-1,Comedy
 BAFTA,Kagemusha,1980,-1,Drama
+BAFTA,Kramer vs. Kramer,1980,-1,Drama
+BAFTA,Atlantic City,1981,-1,Crime
+BAFTA,The French Lieutenant's Woman,1981,-1,
 BAFTA,Gregory's Girl,1981,-1,Comedy
+BAFTA,Raiders of the Lost Ark,1981,-1,Action
+BAFTA,E.T. the Extra-Terrestrial,1982,-1,Children
+BAFTA,Missing,1982,-1,Drama
+BAFTA,On Golden Pond,1982,-1,Drama
 BAFTA,Heat and Dust,1983,-1,Drama
 BAFTA,Local Hero,1983,-1,Comedy
+BAFTA,Tootsie,1983,-1,Comedy
+BAFTA,The Dresser,1984,-1,Drama
 BAFTA,"Paris, Texas",1984,-1,Drama
+BAFTA,A Private Function,1984,-1,
+BAFTA,Amadeus,1985,-1,Drama
 BAFTA,Back to the Future,1985,-1,Adventure
+BAFTA,A Passage to India,1985,-1,
+BAFTA,Witness,1985,-1,Drama
+BAFTA,Hannah and Her Sisters,1986,-1,Comedy
+BAFTA,The Mission,1986,-1,
 BAFTA,Mona Lisa,1986,-1,Comedy
 BAFTA,Cry Freedom,1987,-1,Drama
+BAFTA,Hope and Glory,1987,-1,Drama
 BAFTA,Radio Days,1987,-1,Comedy
 BAFTA,Au revoir les enfants,1988,-1,Drama
 BAFTA,Babette's Feast,1988,-1,Drama
+BAFTA,A Fish Called Wanda,1988,-1,
+BAFTA,My Left Foot,1989,-1,Drama
 BAFTA,Shirley Valentine,1989,-1,Comedy
+BAFTA,When Harry Met Sally...,1989,-1,Comedy
+BAFTA,Crimes and Misdemeanors,1990,-1,Comedy
+BAFTA,Driving Miss Daisy,1990,-1,Drama
 BAFTA,Pretty Woman,1990,-1,Comedy
+BAFTA,Dances with Wolves,1991,-1,Adventure
+BAFTA,The Silence of the Lambs,1991,-1,
 BAFTA,Thelma & Louise,1991,-1,Adventure
+BAFTA,The Crying Game,1992,-1,
+BAFTA,The Player,1992,-1,
 BAFTA,Strictly Ballroom,1992,-1,Comedy
+BAFTA,Unforgiven,1992,-1,Drama
+BAFTA,The Piano,1993,-1,
+BAFTA,The Remains of the Day,1993,-1,
 BAFTA,Shadowlands,1993,-1,Drama
-BAFTA,Shadowlands,1993,-1,Drama
+BAFTA,Forrest Gump,1994,-1,Comedy
+BAFTA,Pulp Fiction,1994,-1,Comedy
+BAFTA,Quiz Show,1994,-1,Drama
+BAFTA,Babe,1995,-1,Children
+BAFTA,The Madness of King George,1995,-1,
+BAFTA,The Usual Suspects,1995,-1,
+BAFTA,Fargo,1996,-1,Comedy
+BAFTA,Secrets & Lies,1996,-1,Drama
+BAFTA,Shine,1996,-1,Drama
+BAFTA,L.A. Confidential,1997,-1,Crime
+BAFTA,Mrs Brown,1997,-1,
+BAFTA,Titanic,1997,-1,Drama
+BAFTA,Elizabeth,1998,-1,Drama
+BAFTA,Saving Private Ryan,1998,-1,Action
+BAFTA,The Truman Show,1998,-1,
 BAFTA,East is East,1999,-1,Comedy
+BAFTA,The End of the Affair,1999,-1,
+BAFTA,The Sixth Sense,1999,-1,
+BAFTA,The Talented Mr. Ripley,1999,-1,
+BAFTA,Almost Famous,2000,-1,Drama
+BAFTA,Billy Elliot,2000,-1,Drama
+BAFTA,"Crouching Tiger, Hidden Dragon",2000,-1,Action
+BAFTA,Erin Brockovich,2000,-1,Drama
+BAFTA,Amélie,2001,-1,
+BAFTA,A Beautiful Mind,2001,-1,
+BAFTA,Moulin Rouge!,2001,-1,
 BAFTA,Shrek,2001,-1,Adventure
-CC,Shrek,2001,-1,Adventure
+BAFTA,Chicago,2002,-1,Comedy
+BAFTA,Gangs of New York,2002,-1,Crime
+BAFTA,The Hours,2002,-1,
+BAFTA,The Lord of the Rings: The Two Towers,2002,-1,
 BAFTA,Big Fish,2003,-1,Drama
-CC,Big Fish,2003,-1,Drama
 BAFTA,Cold Mountain,2003,-1,Drama
-CC,Cold Mountain,2003,-1,Drama
+BAFTA,Lost in Translation,2003,-1,Comedy
+BAFTA,Master and Commander: The Far Side of the World,2003,-1,Adventure
 BAFTA,Eternal Sunshine of the Spotless Mind,2004,-1,Drama
-CC,Eternal Sunshine of the Spotless Mind,2004,-1,Drama
+BAFTA,Finding Neverland,2004,-1,Drama
+BAFTA,The Motorcycle Diaries,2004,-1,
+BAFTA,Vera Drake,2004,-1,Drama
+BAFTA,Capote,2005,-1,Crime
+BAFTA,The Constant Gardener,2005,-1,
+BAFTA,Crash,2005,-1,Drama
+BAFTA,"Good Night, and Good Luck",2005,-1,
+BAFTA,Babel,2006,-1,Drama
+BAFTA,The Departed,2006,-1,
+BAFTA,The Last King of Scotland,2006,-1,
+BAFTA,Little Miss Sunshine,2006,-1,Adventure
 BAFTA,American Gangster,2007,-1,Crime
-SAG,American Gangster,2007,-1,Crime
-CC,American Gangster,2007,-1,Crime
+BAFTA,The Lives of Others,2007,-1,
+BAFTA,No Country for Old Men,2007,-1,Crime
+BAFTA,There Will Be Blood,2007,-1,Drama
+BAFTA,The Curious Case of Benjamin Button,2008,-1,
+BAFTA,Frost/Nixon,2008,-1,Drama
+BAFTA,Milk,2008,-1,Drama
+BAFTA,The Reader,2008,-1,Comedy
+BAFTA,Avatar,2009,-1,Action
+BAFTA,An Education,2009,-1,
+BAFTA,Precious,2009,-1,Drama
+BAFTA,Up in the Air,2009,-1,Drama
+BAFTA,Black Swan,2010,-1,Drama
+BAFTA,Inception,2010,-1,Action
+BAFTA,The Social Network,2010,-1,
 BAFTA,True Grit,2010,-1,Adventure
-BAFTA,True Grit,2010,-1,Western
-CC,True Grit,2010,-1,Adventure
-CC,True Grit,2010,-1,Western
+BAFTA,The Descendants,2011,-1,
 BAFTA,Drive,2011,-1,Crime
-BAFTA,Drive,2011,-1,Crime
-BAFTA,Drive,2011,-1,Action
-CC,Drive,2011,-1,Crime
-CC,Drive,2011,-1,Crime
-CC,Drive,2011,-1,Action
+BAFTA,The Help,2011,-1,
 BAFTA,Tinker Tailor Soldier Spy,2011,-1,Drama
+BAFTA,Les Misérables,2012,-1,(no genres listed)
+BAFTA,Life of Pi,2012,-1,Adventure
+BAFTA,Lincoln,2012,-1,Drama
+BAFTA,Zero Dark Thirty,2012,-1,Action
+BAFTA,American Hustle,2013,-1,Crime
+BAFTA,Captain Phillips,2013,-1,Adventure
+BAFTA,Gravity,2013,-1,Crime
 BAFTA,Philomena,2013,-1,Comedy
+BAFTA,Birdman or (The Unexpected Virtue of Ignorance),2014,-1,
+BAFTA,The Grand Budapest Hotel,2014,-1,
+BAFTA,The Imitation Game,2014,-1,Drama
 BAFTA,The Theory of Everything,2014,-1,Drama
-SAG,The Theory of Everything,2014,-1,Drama
-CC,The Theory of Everything,2014,-1,Drama
+BAFTA,The Big Short,2015,-1,
 BAFTA,Bridge of Spies,2015,-1,Drama
-CC,Bridge of Spies,2015,-1,Drama
 BAFTA,Carol,2015,-1,Drama
-CC,Carol,2015,-1,Drama
+BAFTA,Spotlight,2015,-1,Thriller
+BAFTA,Arrival,2016,-1,Sci-Fi
 BAFTA,"I, Daniel Blake",2016,-1,Drama
+BAFTA,Manchester by the Sea,2016,-1,Drama
+BAFTA,Moonlight,2016,-1,Drama
 BAFTA,Call Me by Your Name,2017,-1,Drama
-CC,Call Me by Your Name,2017,-1,Drama
 BAFTA,Darkest Hour,2017,-1,Drama
-CC,Darkest Hour,2017,-1,Drama
+BAFTA,Dunkirk,2017,-1,War
+BAFTA,The Shape of Water,2017,-1,Adventure
+BAFTA,BlacKkKlansman,2018,-1,Comedy
 BAFTA,The Favourite,2018,-1,Drama
-CC,The Favourite,2018,-1,Drama
+BAFTA,Green Book,2018,-1,
+BAFTA,A Star is Born,2018,-1,
+SAG,Apollo 13,1995,1,Adventure
+SAG,The Birdcage,1996,1,
+SAG,The Full Monty,1997,1,
+SAG,Shakespeare in Love,1998,1,Comedy
+SAG,American Beauty,1999,1,Drama
+SAG,Traffic,2000,1,Crime
+SAG,Gosford Park,2001,1,Comedy
+SAG,Chicago,2002,1,Comedy
+SAG,The Lord of the Rings: The Return of the King,2003,1,
+SAG,Sideways,2004,1,Comedy
+SAG,Crash,2005,1,Drama
+SAG,Little Miss Sunshine,2006,1,Adventure
+SAG,No Country for Old Men,2007,1,Crime
+SAG,Slumdog Millionaire,2008,1,Crime
+SAG,Inglourious Basterds,2009,1,Action
+SAG,The King's Speech,2010,1,
+SAG,The Help,2011,1,
+SAG,Argo,2012,1,Drama
+SAG,American Hustle,2013,1,Crime
+SAG,Birdman,2014,1,
+SAG,Spotlight,2015,1,Thriller
 SAG,Hidden Figures,2016,1,Drama
+SAG,"Three Billboards Outside Ebbing, Missouri",2017,1,Crime
+SAG,Black Panther,2018,1,Action
 SAG,Get Shorty,1995,-1,Comedy
 SAG,How to Make an American Quilt,1995,-1,Drama
 SAG,Nixon,1995,-1,Drama
+SAG,Sense and Sensibility,1995,-1,Drama
+SAG,The English Patient,1996,-1,
 SAG,Marvin's Room,1996,-1,Drama
+SAG,Shine,1996,-1,Drama
 SAG,Sling Blade,1996,-1,Drama
+SAG,Boogie Nights,1997,-1,Drama
+SAG,Good Will Hunting,1997,-1,Drama
+SAG,L.A. Confidential,1997,-1,Crime
+SAG,Titanic,1997,-1,Drama
+SAG,Life Is Beautiful,1998,-1,Comedy
 SAG,Little Voice,1998,-1,Comedy
+SAG,Saving Private Ryan,1998,-1,Action
+SAG,Waking Ned,1998,-1,
+SAG,Being John Malkovich,1999,-1,Comedy
+SAG,The Cider House Rules,1999,-1,
+SAG,The Green Mile,1999,-1,
+SAG,Magnolia,1999,-1,Drama
+SAG,Almost Famous,2000,-1,Drama
+SAG,Billy Elliot,2000,-1,Drama
+SAG,Chocolat,2000,-1,Drama
+SAG,Gladiator,2000,-1,Action
+SAG,A Beautiful Mind,2001,-1,
+SAG,In the Bedroom,2001,-1,Drama
+SAG,The Lord of the Rings: The Fellowship of the Ring,2001,-1,
+SAG,Moulin Rouge!,2001,-1,
+SAG,Adaptation.,2002,-1,
+SAG,The Hours,2002,-1,
+SAG,The Lord of the Rings: The Two Towers,2002,-1,
 SAG,My Big Fat Greek Wedding,2002,-1,Comedy
+SAG,In America,2003,-1,Drama
+SAG,Mystic River,2003,-1,Crime
+SAG,Seabiscuit,2003,-1,Drama
+SAG,The Station Agent,2003,-1,
+SAG,The Aviator,2004,-1,
+SAG,Finding Neverland,2004,-1,Drama
+SAG,Hotel Rwanda,2004,-1,Drama
+SAG,Million Dollar Baby,2004,-1,Drama
+SAG,Ray,2004,-1,Drama
+SAG,Brokeback Mountain,2005,-1,Drama
+SAG,Capote,2005,-1,Crime
+SAG,"Good Night, and Good Luck",2005,-1,
 SAG,Hustle & Flow,2005,-1,Crime
+SAG,Babel,2006,-1,Drama
 SAG,Bobby,2006,-1,Drama
-SAG,Bobby,2006,-1,Documentary
+SAG,The Departed,2006,-1,
+SAG,Dreamgirls,2006,-1,Drama
+SAG,3:10 to Yuma,2007,-1,Action
+SAG,American Gangster,2007,-1,Crime
 SAG,Hairspray,2007,-1,Comedy
-SAG,Hairspray,2007,-1,Comedy
+SAG,Into the Wild,2007,-1,Action
+SAG,The Curious Case of Benjamin Button,2008,-1,
 SAG,Doubt,2008,-1,Drama
-CC,Doubt,2008,-1,Drama
+SAG,Frost/Nixon,2008,-1,Drama
+SAG,Milk,2008,-1,Drama
+SAG,An Education,2009,-1,
+SAG,The Hurt Locker,2009,-1,
 SAG,Nine,2009,-1,Drama
-CC,Nine,2009,-1,Drama
+SAG,Precious,2009,-1,Drama
+SAG,Black Swan,2010,-1,Drama
+SAG,The Fighter,2010,-1,
+SAG,The Kids Are All Right,2010,-1,
+SAG,The Social Network,2010,-1,
+SAG,The Artist,2011,-1,Comedy
 SAG,Bridesmaids,2011,-1,Comedy
+SAG,The Descendants,2011,-1,
+SAG,Midnight in Paris,2011,-1,Comedy
+SAG,The Best Exotic Marigold Hotel,2012,-1,
+SAG,Les Misérables,2012,-1,(no genres listed)
+SAG,Lincoln,2012,-1,Drama
 SAG,Silver Linings Playbook,2012,-1,Comedy
-CC,Silver Linings Playbook,2012,-1,Comedy
+SAG,12 Years a Slave,2013,-1,Drama
 SAG,August: Osage County,2013,-1,Comedy
+SAG,The Butler,2013,-1,
 SAG,Dallas Buyers Club,2013,-1,Drama
-CC,Dallas Buyers Club,2013,-1,Drama
+SAG,Boyhood,2014,-1,Drama
+SAG,The Grand Budapest Hotel,2014,-1,
+SAG,The Imitation Game,2014,-1,Drama
+SAG,The Theory of Everything,2014,-1,Drama
 SAG,Beasts of No Nation,2015,-1,Drama
+SAG,The Big Short,2015,-1,
 SAG,Straight Outta Compton,2015,-1,Drama
 SAG,Trumbo,2015,-1,Documentary
-SAG,Trumbo,2015,-1,Drama
 SAG,Captain Fantastic,2016,-1,Drama
 SAG,Fences,2016,-1,Drama
-CC,Fences,2016,-1,Drama
+SAG,Manchester by the Sea,2016,-1,Drama
+SAG,Moonlight,2016,-1,Drama
 SAG,The Big Sick,2017,-1,Comedy
-CC,The Big Sick,2017,-1,Comedy
+SAG,Get Out,2017,-1,Horror
+SAG,Lady Bird,2017,-1,Comedy
 SAG,Mudbound,2017,-1,Drama
+SAG,BlacKkKlansman,2018,-1,Comedy
+SAG,Bohemian Rhapsody,2018,-1,
 SAG,Crazy Rich Asians,2018,-1,Comedy
+SAG,A Star Is Born,2018,-1,Drama
+CC,Sense and Sensibility,1995,1,Drama
+CC,Fargo,1996,1,Comedy
+CC,L.A. Confidential,1997,1,Crime
+CC,Saving Private Ryan,1998,1,Action
+CC,American Beauty,1999,1,Drama
+CC,Gladiator,2000,1,Action
+CC,A Beautiful Mind,2001,1,
+CC,Chicago,2002,1,Comedy
+CC,The Lord of the Rings: The Return of the King,2003,1,
+CC,Sideways,2004,1,Comedy
+CC,Brokeback Mountain,2005,1,Drama
+CC,The Departed,2006,1,
+CC,No Country for Old Men,2007,1,Crime
+CC,Slumdog Millionaire,2008,1,Crime
+CC,The Hurt Locker,2009,1,
+CC,The Social Network,2010,1,
+CC,The Artist,2011,1,Comedy
+CC,Argo,2012,1,Drama
+CC,12 Years a Slave,2013,1,Drama
+CC,Boyhood,2014,1,Drama
+CC,Spotlight,2015,1,Thriller
+CC,Moonlight,2016,1,Drama
+CC,The Shape of Water,2017,1,Adventure
+CC,Roma,2018,1,Drama
 CC,Big Night,1996,-1,Comedy
+CC,The Crucible,1996,-1,
+CC,The English Patient,1996,-1,
 CC,Evita,1996,-1,Drama
+CC,Hamlet,1996,-1,Crime
+CC,Jerry Maguire,1996,-1,Drama
+CC,Lone Star,1996,-1,Drama
+CC,The People vs. Larry Flynt,1996,-1,
+CC,Shine,1996,-1,Drama
+CC,Amistad,1997,-1,Drama
+CC,As Good as It Gets,1997,-1,Comedy
+CC,Boogie Nights,1997,-1,Drama
 CC,Donnie Brasco,1997,-1,Crime
+CC,Good Will Hunting,1997,-1,Drama
+CC,The Full Monty,1997,-1,
+CC,Titanic,1997,-1,Drama
 CC,Wag the Dog,1997,-1,Comedy
-CC,Out of Sight,1998,-1,Comedy
+CC,The Wings of the Dove,1997,-1,
+CC,Elizabeth,1998,-1,Drama
+CC,Gods and Monsters,1998,-1,Drama
+CC,Life Is Beautiful,1998,-1,Comedy
 CC,Out of Sight,1998,-1,Comedy
 CC,Pleasantville,1998,-1,Comedy
+CC,Shakespeare in Love,1998,-1,Comedy
+CC,A Simple Plan,1998,-1,
+CC,The Thin Red Line,1998,-1,War
+CC,The Truman Show,1998,-1,
+CC,Being John Malkovich,1999,-1,Comedy
+CC,The Cider House Rules,1999,-1,
+CC,The Green Mile,1999,-1,
+CC,The Insider,1999,-1,
+CC,Magnolia,1999,-1,Drama
 CC,Man on the Moon,1999,-1,Comedy
+CC,The Sixth Sense,1999,-1,
+CC,The Talented Mr. Ripley,1999,-1,
 CC,Three Kings,1999,-1,Action
+CC,Almost Famous,2000,-1,Drama
+CC,Billy Elliot,2000,-1,Drama
 CC,Cast Away,2000,-1,Drama
+CC,"Crouching Tiger, Hidden Dragon",2000,-1,Action
+CC,Erin Brockovich,2000,-1,Drama
+CC,Quills,2000,-1,Drama
 CC,Thirteen Days,2000,-1,Drama
+CC,Traffic,2000,-1,Crime
 CC,Wonder Boys,2000,-1,Comedy
+CC,You Can Count On Me,2000,-1,
 CC,Ali,2001,-1,Drama
+CC,In the Bedroom,2001,-1,Drama
+CC,The Lord of the Rings: The Fellowship of the Ring,2001,-1,
 CC,The Man Who Wasn't There,2001,-1,Action
+CC,Memento,2001,-1,Mystery
+CC,Moulin Rouge!,2001,-1,
 CC,Mulholland Drive,2001,-1,Crime
+CC,The Shipping News,2001,-1,
+CC,Shrek,2001,-1,Adventure
 CC,About Schmidt,2002,-1,Comedy
 CC,Adaptation,2002,-1,Comedy
 CC,Catch Me If You Can,2002,-1,Crime
-CC,Catch Me If You Can,2002,-1,Action
+CC,Far from Heaven,2002,-1,Drama
+CC,Gangs of New York,2002,-1,Crime
+CC,The Hours,2002,-1,
+CC,The Lord of the Rings: The Two Towers,2002,-1,
+CC,The Pianist,2002,-1,
+CC,Road to Perdition,2002,-1,Crime
+CC,Big Fish,2003,-1,Drama
+CC,Cold Mountain,2003,-1,Drama
 CC,Finding Nemo,2003,-1,Adventure
+CC,In America,2003,-1,Drama
+CC,The Last Samurai,2003,-1,
+CC,Lost in Translation,2003,-1,Comedy
+CC,Master and Commander: The Far Side of the World,2003,-1,Adventure
+CC,Mystic River,2003,-1,Crime
+CC,Seabiscuit,2003,-1,Drama
+CC,The Aviator,2004,-1,
 CC,Collateral,2004,-1,Action
+CC,Eternal Sunshine of the Spotless Mind,2004,-1,Drama
+CC,Finding Neverland,2004,-1,Drama
+CC,Hotel Rwanda,2004,-1,Drama
+CC,Kinsey,2004,-1,Drama
+CC,Million Dollar Baby,2004,-1,Drama
 CC,The Phantom of the Opera,2004,-1,Drama
-CC,The Phantom of the Opera,2004,-1,Drama
-CC,The Phantom of the Opera,2004,-1,Drama
+CC,Ray,2004,-1,Drama
+CC,Capote,2005,-1,Crime
+CC,Cinderella Man,2005,-1,Drama
+CC,The Constant Gardener,2005,-1,
+CC,Crash,2005,-1,Drama
+CC,"Good Night, and Good Luck",2005,-1,
 CC,King Kong,2005,-1,Action
-CC,King Kong,2005,-1,Adventure
-CC,King Kong,2005,-1,Action
+CC,Memoirs of a Geisha,2005,-1,Drama
+CC,Munich,2005,-1,Action
 CC,Walk the Line,2005,-1,Drama
+CC,Babel,2006,-1,Drama
 CC,Blood Diamond,2006,-1,Action
+CC,Dreamgirls,2006,-1,Drama
+CC,Letters from Iwo Jima,2006,-1,Drama
+CC,Little Children,2006,-1,Drama
+CC,Little Miss Sunshine,2006,-1,Adventure
 CC,Notes on a Scandal,2006,-1,Drama
+CC,The Queen,2006,-1,Drama
 CC,United 93,2006,-1,Crime
+CC,American Gangster,2007,-1,Crime
+CC,Atonement,2007,-1,Drama
+CC,The Diving Bell and the Butterfly,2007,-1,
+CC,Into the Wild,2007,-1,Action
 CC,Juno,2007,-1,Comedy
+CC,The Kite Runner,2007,-1,
+CC,Michael Clayton,2007,-1,Drama
 CC,Sweeney Todd: The Demon Barber of Fleet Street,2007,-1,Drama
-CC,Sweeney Todd: The Demon Barber of Fleet Street,2007,-1,Crime
-CC,Sweeney Todd: The Demon Barber of Fleet Street,2007,-1,Drama
+CC,There Will Be Blood,2007,-1,Drama
 CC,Changeling,2008,-1,Crime
+CC,The Curious Case of Benjamin Button,2008,-1,
+CC,The Dark Knight,2008,-1,Action
+CC,Doubt,2008,-1,Drama
+CC,Frost/Nixon,2008,-1,Drama
+CC,Milk,2008,-1,Drama
+CC,The Reader,2008,-1,Comedy
+CC,WALL-E,2008,-1,
+CC,The Wrestler,2008,-1,
+CC,Avatar,2009,-1,Action
+CC,An Education,2009,-1,
+CC,Inglourious Basterds,2009,-1,Action
 CC,Invictus,2009,-1,Drama
+CC,Nine,2009,-1,Drama
+CC,Precious,2009,-1,Drama
+CC,A Serious Man,2009,-1,
 CC,Up,2009,-1,Adventure
+CC,Up in the Air,2009,-1,Drama
 CC,127 Hours,2010,-1,Adventure
+CC,Black Swan,2010,-1,Drama
+CC,The Fighter,2010,-1,
+CC,Inception,2010,-1,Action
+CC,The King's Speech,2010,-1,
+CC,The Town,2010,-1,
 CC,Toy Story 3,2010,-1,Adventure
+CC,True Grit,2010,-1,Adventure
 CC,Winter's Bone,2010,-1,Drama
+CC,The Descendants,2011,-1,
+CC,Drive,2011,-1,Crime
+CC,Extremely Loud & Incredibly Close,2011,-1,
+CC,The Help,2011,-1,
+CC,Hugo,2011,-1,Children
+CC,Midnight in Paris,2011,-1,Comedy
 CC,Moneyball,2011,-1,Drama
+CC,The Tree of Life,2011,-1,
 CC,War Horse,2011,-1,Drama
 CC,Beasts of the Southern Wild,2012,-1,Drama
 CC,Django Unchained,2012,-1,Action
+CC,Les Misérables,2012,-1,(no genres listed)
+CC,Life of Pi,2012,-1,Adventure
+CC,Lincoln,2012,-1,Drama
 CC,The Master,2012,-1,Action
-CC,The Master,2012,-1,(no genres listed)
 CC,Moonrise Kingdom,2012,-1,Comedy
+CC,Silver Linings Playbook,2012,-1,Comedy
+CC,Zero Dark Thirty,2012,-1,Action
+CC,American Hustle,2013,-1,Crime
+CC,Captain Phillips,2013,-1,Adventure
+CC,Dallas Buyers Club,2013,-1,Drama
+CC,Gravity,2013,-1,Crime
+CC,Her,2013,-1,Drama
 CC,Inside Llewyn Davis,2013,-1,Drama
 CC,Nebraska,2013,-1,Adventure
 CC,Saving Mr. Banks,2013,-1,Comedy
+CC,The Wolf of Wall Street,2013,-1,
+CC,Birdman,2014,-1,
 CC,Gone Girl,2014,-1,Drama
+CC,The Grand Budapest Hotel,2014,-1,
+CC,The Imitation Game,2014,-1,Drama
 CC,Nightcrawler,2014,-1,Crime
 CC,Selma,2014,-1,Drama
+CC,The Theory of Everything,2014,-1,Drama
 CC,Unbroken,2014,-1,Drama
 CC,Whiplash,2014,-1,Drama
-CC,Whiplash,2014,-1,Drama
-CC,Whiplash,2014,-1,(no genres listed)
+CC,The Big Short,2015,-1,
+CC,Bridge of Spies,2015,-1,Drama
 CC,Brooklyn,2015,-1,Drama
+CC,Carol,2015,-1,Drama
+CC,Mad Max: Fury Road,2015,-1,Action
+CC,The Martian,2015,-1,Adventure
+CC,The Revenant,2015,-1,Adventure
 CC,Room,2015,-1,Drama
-CC,Room,2015,-1,Documentary
-CC,Room,2015,-1,Comedy
 CC,Sicario,2015,-1,Crime
-CC,Sicario,2015,-1,(no genres listed)
+CC,Star Wars: The Force Awakens,2015,-1,
+CC,Arrival,2016,-1,Sci-Fi
+CC,Fences,2016,-1,Drama
 CC,Hacksaw Ridge,2016,-1,Drama
 CC,Hell or High Water,2016,-1,Crime
+CC,La La Land,2016,-1,Comedy
+CC,Lion,2016,-1,Drama
 CC,Loving,2016,-1,Comedy
-CC,Loving,2016,-1,Drama
-CC,Loving,2016,-1,Drama
+CC,Manchester by the Sea,2016,-1,Drama
 CC,Sully,2016,-1,Drama
+CC,The Big Sick,2017,-1,Comedy
+CC,Call Me by Your Name,2017,-1,Drama
+CC,Darkest Hour,2017,-1,Drama
+CC,Dunkirk,2017,-1,War
 CC,The Florida Project,2017,-1,Drama
+CC,Get Out,2017,-1,Horror
+CC,Lady Bird,2017,-1,Comedy
+CC,The Post,2017,-1,Drama
+CC,"Three Billboards Outside Ebbing, Missouri",2017,-1,Crime
+CC,BlacKkKlansman,2018,-1,Comedy
+CC,Black Panther,2018,-1,Action
+CC,The Favourite,2018,-1,Drama
+CC,First Man,2018,-1,
+CC,Green Book,2018,-1,
+CC,If Beale Street Could Talk,2018,-1,Drama
+CC,Mary Poppins Returns,2018,-1,
+CC,A Star Is Born,2018,-1,Drama
+CC,Vice,2018,-1,Crime
