@@ -1,2 +1,2 @@
-### Statistical Analysis on Oscars
-Full article can be found on http://flora-huang.com/how-youre-intuition-can-be-right-on-oscars-best-pictures/
+### A Collaborative Filtering Autoencoder Neural Network for Oscars Prediction
+Models: KNN, Decision Trees, second-order factorization machines, collaborative filtering autoencoder neural network
